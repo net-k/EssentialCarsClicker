@@ -21,216 +21,280 @@ MonoBehaviour:
       TermType: 0
       Description: 
       Languages:
-      - Cake Castle
-      - "\u30B1\u30FC\u30AD\u306E\u304A\u3057\u308D"
+      - Vehicle Terminal
+      - "\u304F\u308B\u307E\u306E\u30BF\u30FC\u30DF\u30CA\u30EB"
       Flags: 0000
       Languages_Touch: []
     - Term: Absolute Nigiri
       TermType: 0
       Description: 
       Languages:
-      - Absolute Sweetness
-      - "\u305C\u3063\u305F\u3044\u30B9\u30A4\u30FC\u30C8"
+      - Absolute Drive
+      - "\u305C\u3063\u305F\u3044\u30C9\u30E9\u30A4\u30D6"
       Flags: 0000
       Languages_Touch: []
     - Term: Artificial Clicka
       TermType: 0
       Description: 
       Languages:
-      - Magic Flour
-      - "\u307E\u307B\u3046\u306E\u3053\u3080\u304E\u3053"
+      - Magic Fuel
+      - "\u307E\u307B\u3046\u306E\u306D\u3093\u308A\u3087\u3046"
       Flags: 0000
       Languages_Touch: []
     - Term: Auto Picker
       TermType: 0
       Description: 
       Languages:
-      - Cake Fairy
-      - "\u30B1\u30FC\u30AD\u306E\u3088\u3046\u305B\u3044"
+      - Vehicle Driver
+      - "\u304F\u308B\u307E\u306E\u904B\u8EE2\u624B"
       Flags: 0000
       Languages_Touch: []
     - Term: Banana Clone
       TermType: 0
       Description: 
       Languages:
-      - Cake Piggy
-      - "\u30B1\u30FC\u30AD\u3061\u3087\u304D\u3093\u3070\u3053"
+      - Vehicle Piggy Bank
+      - "\u304F\u308B\u307E\u8CAF\u91D1\u7BB1"
       Flags: 0000
       Languages_Touch: []
     - Term: Banana Factory
       TermType: 0
       Description: 
       Languages:
-      - Cream Factory
-      - "\u30AF\u30EA\u30FC\u30E0\u5DE5\u5834"
+      - Vehicle Factory
+      - "\u304F\u308B\u307E\u5DE5\u5834"
       Flags: 0000
       Languages_Touch: []
     - Term: Banana Farm
       TermType: 0
       Description: 
       Languages:
-      - Strawberry Farm
-      - "\u3044\u3061\u3054\u8FB2\u5712"
+      - Vehicle Parking
+      - "\u304F\u308B\u307E\u99D0\u8ECA\u5834"
       Flags: 0000
       Languages_Touch: []
     - Term: Banana Mine
       TermType: 0
       Description: 
       Languages:
-      - Sugar Mine
-      - "\u304A\u3055\u3068\u3046\u306E\u9271\u5C71"
+      - Iron Mine
+      - "\u3066\u3064\u306E\u3053\u3046\u3056\u3093"
       Flags: 0000
       Languages_Touch: []
     - Term: Bionic Clicka
       TermType: 0
       Description: 
       Languages:
-      - Toy Mixer
-      - "\u304A\u3082\u3061\u3083\u306E\u30DF\u30AD\u30B5\u30FC"
+      - Toy Wrench
+      - "\u304A\u3082\u3061\u3083\u306E\u30EC\u30F3\u30C1"
       Flags: 0000
       Languages_Touch: []
     - Term: Black Hole
       TermType: 0
       Description: 
       Languages:
-      - Dreamy Cake
-      - "\u3086\u3081\u307F\u308B\u30B1\u30FC\u30AD"
+      - Dreamy Super Car
+      - "\u3086\u3081\u307F\u308B\u30B9\u30FC\u30D1\u30FC\u30AB\u30FC"
       Flags: 0000
       Languages_Touch: []
     - Term: Dark Matter Clicka
       TermType: 0
       Description: 
       Languages:
-      - Infinite Cream
-      - "\u3080\u3052\u3093\u306E\u30AF\u30EA\u30FC\u30E0"
+      - Infinite Gasoline
+      - "\u3080\u3052\u3093\u306E\u30AC\u30BD\u30EA\u30F3"
       Flags: 0000
       Languages_Touch: []
     - Term: Diamond Clicka
       TermType: 0
       Description: 
       Languages:
-      - Jewel Cake
-      - "\u307B\u3046\u305B\u304D\u30B1\u30FC\u30AD"
+      - Golden Vehicle
+      - "\u304A\u3046\u3054\u3093\u306E\u8ECA"
       Flags: 0000
       Languages_Touch: []
     - Term: Eternal Nigiri
       TermType: 0
       Description: 
       Languages:
-      - Eternal Cake
-      - "\u3048\u3044\u3048\u3093\u306E\u30B1\u30FC\u30AD"
+      - Eternal Engine
+      - "\u3048\u3044\u3048\u3093\u306E\u30A8\u30F3\u30B8\u30F3"
       Flags: 0000
       Languages_Touch: []
     - Term: Extreme Clicka
       TermType: 0
       Description: 
       Languages:
-      - Extreme Heart Cake
-      - "\u3054\u304F\u3058\u3087\u3046\u30CF\u30FC\u30C8\u30B1\u30FC\u30AD"
+      - Extreme Turbo
+      - "\u3054\u304F\u3058\u3087\u3046\u30BF\u30FC\u30DC"
       Flags: 0000
       Languages_Touch: []
     - Term: Fast Clicka
       TermType: 0
       Description: 
       Languages:
-      - Quick Bake
-      - "\u306F\u3084\u3084\u304D\u30AA\u30FC\u30D6\u30F3"
+      - Quick Ignition
+      - "\u306F\u3084\u304F\u304B\u304B\u308B\u30A8\u30F3\u30B8\u30F3"
       Flags: 0000
       Languages_Touch: []
     - Term: First Upgrade
       TermType: 0
       Description: 
       Languages:
-      - Cute Fork
-      - "\u304B\u308F\u3044\u3044\u30D5\u30A9\u30FC\u30AF"
+      - Shiny Key
+      - "\u3074\u304B\u3074\u304B\u306E\u30AD\u30FC"
       Flags: 0000
       Languages_Touch: []
     - Term: Genetic Engineered Bananas
       TermType: 0
       Description: 
       Languages:
-      - Galaxy Cake Ship
-      - "\u304A\u305D\u3089\u306E\u30B1\u30FC\u30AD\u8239"
+      - Galaxy Carrier
+      - "\u304A\u305D\u3089\u306E\u30AD\u30E3\u30EA\u30A2\u30AB\u30FC"
       Flags: 0000
       Languages_Touch: []
     - Term: Helper Monkey
       TermType: 0
       Description: 
       Languages:
-      - Bear Pastry Chef
-      - "\u304F\u307E\u3055\u3093\u30D1\u30C6\u30A3\u30B7\u30A8"
+      - Monkey Mechanic
+      - "\u3055\u308B\u306E\u6574\u5099\u58EB"
       Flags: 0000
       Languages_Touch: []
     - Term: Hyper Clicka
       TermType: 0
       Description: 
       Languages:
-      - Hyper Oven
-      - "\u30CF\u30A4\u30D1\u30FC\u30AA\u30FC\u30D6\u30F3"
+      - Hyper Engine
+      - "\u30CF\u30A4\u30D1\u30FC\u30A8\u30F3\u30B8\u30F3"
       Flags: 0000
       Languages_Touch: []
     - Term: Mega Clicka
       TermType: 0
       Description: 
       Languages:
-      - Mega Marshmallow Cake
-      - "\u30E1\u30AC\u30FB\u30DE\u30B7\u30E5\u30DE\u30ED\u30B1\u30FC\u30AD"
+      - Mega Big Rig
+      - "\u30E1\u30AC\u30FB\u5927\u578B\u30C8\u30E9\u30C3\u30AF"
       Flags: 0000
       Languages_Touch: []
     - Term: Phantom Nigiri
       TermType: 0
       Description: 
       Languages:
-      - Aurora Cake
-      - "\u30AA\u30FC\u30ED\u30E9\u30B1\u30FC\u30AD"
+      - Aurora Vehicle
+      - "\u30AA\u30FC\u30ED\u30E9\u30AB\u30FC"
       Flags: 0000
       Languages_Touch: []
     - Term: Soul Bananas
       TermType: 0
       Description: 
       Languages:
-      - Cake Magic Tower
-      - "\u30B1\u30FC\u30AD\u307E\u307B\u3046\u5854"
+      - Vehicle Control Tower
+      - "\u304F\u308B\u307E\u7BA1\u5236\u5854"
       Flags: 0000
       Languages_Touch: []
     - Term: Supa Clicka
       TermType: 0
       Description: 
       Languages:
-      - Lovely Cream
-      - "\u3089\u3076\u308A\u30FC\u30AF\u30EA\u30FC\u30E0"
+      - Lovely Wax
+      - "\u3089\u3076\u308A\u30FC\u30EF\u30C3\u30AF\u30B9"
       Flags: 0000
       Languages_Touch: []
     - Term: Teleporter
       TermType: 0
       Description: 
       Languages:
-      - Sweet Laboratory
-      - "\u30B9\u30A4\u30FC\u30C4\u308C\u3093\u304D\u3093\u3058\u3085\u3064"
+      - Vehicle Teleport
+      - "\u304F\u308B\u307E\u30EF\u30FC\u30D7"
       Flags: 0000
       Languages_Touch: []
     - Term: Ultra Clicka
       TermType: 0
       Description: 
       Languages:
-      - Ultra Sparkle Cake
-      - "\u30A6\u30EB\u30C8\u30E9\u30FB\u30AD\u30E9\u30AD\u30E9\u30B1\u30FC\u30AD"
+      - Ultra Shine Car
+      - "\u30A6\u30EB\u30C8\u30E9\u30FB\u30D4\u30AB\u30D4\u30AB\u30AB\u30FC"
       Flags: 0000
       Languages_Touch: []
     - Term: Ultrasonic Clicka
       TermType: 0
       Description: 
       Languages:
-      - Musical Cake
-      - "\u30E1\u30ED\u30C7\u30A3\u30B1\u30FC\u30AD"
+      - Siren Melody
+      - "\u30B5\u30A4\u30EC\u30F3\u30E1\u30ED\u30C7\u30A3"
       Flags: 0000
       Languages_Touch: []
     - Term: Zenith Nigiri
       TermType: 0
       Description: 
       Languages:
-      - Princess Cake
-      - "\u30D7\u30EA\u30F3\u30BB\u30B9\u30B1\u30FC\u30AD"
+      - King of Vehicles
+      - "\u304F\u308B\u307E\u306E\u738B\u69D8"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "\u30A2\u30A4\u30C9\u30EB\u30D0\u30FC\u30B9\u5BFF\u53F8"
+      TermType: 0
+      Description: 
+      Languages:
+      - Dreamy Vehicle World
+      - "\u3086\u3081\u307F\u308B\u304F\u308B\u307E\u305B\u304B\u3044"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "\u30B3\u30FC\u30C6\u30C3\u30AF\u30B9\u5BFF\u53F8"
+      TermType: 0
+      Description: 
+      Languages:
+      - Clever Driver Mind
+      - "\u304D\u3089\u3081\u304D\u904B\u8EE2\u58EB\u30DE\u30A4\u30F3\u30C9"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "\u53CD\u5BFF\u53F8\u51DD\u7E2E\u7089"
+      TermType: 0
+      Description: 
+      Languages:
+      - Dreamy Oil Drop
+      - "\u3086\u3081\u306E\u30AA\u30A4\u30EB\u3057\u305A\u304F"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "\u5BFF\u53F8\u30B3\u30F3\u30BD\u30FC\u30EB"
+      TermType: 0
+      Description: 
+      Languages:
+      - Magical Steering Wheel
+      - "\u307E\u307B\u3046\u306E\u30CF\u30F3\u30C9\u30EB"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "\u5BFF\u53F8\u30BF\u30A4\u30E0\u30DE\u30B7\u30F3"
+      TermType: 0
+      Description: 
+      Languages:
+      - Classic Car Museum
+      - "\u30EC\u30C8\u30ED\u304F\u308B\u307E\u30DF\u30E5\u30FC\u30B8\u30A2\u30E0"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "\u5BFF\u53F8\u30D7\u30EA\u30BA\u30E0"
+      TermType: 0
+      Description: 
+      Languages:
+      - Aurora Reflector
+      - "\u30AA\u30FC\u30ED\u30E9\u53CD\u5C04\u677F"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "\u81EA\u5DF1\u5897\u6B96\u5BFF\u53F8\u30A8\u30F3\u30B8\u30F3"
+      TermType: 0
+      Description: 
+      Languages:
+      - Never-ending Convoy
+      - "\u3068\u307E\u3089\u306A\u3044\u30B3\u30F3\u30DC\u30A4"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: "\u904B\u547D\u64CD\u4F5C\u88C5\u7F6E"
+      TermType: 0
+      Description: 
+      Languages:
+      - Dreamy Traffic Light
+      - "\u3086\u3081\u307F\u308B\u4FE1\u53F7\u6A5F"
       Flags: 0000
       Languages_Touch: []
     - Term: key_AdMobTestModeWarningMessage
@@ -245,16 +309,16 @@ MonoBehaviour:
       TermType: 0
       Description: 
       Languages:
-      - Infinite Cake
-      - "\u30B1\u30FC\u30AD\u30AF\u30EA\u30C3\u30AB\u30FC"
+      - Infinite Car
+      - "\u306F\u305F\u3089\u304F\u304F\u308B\u307E\u30AF\u30EA\u30C3\u30AB\u30FC"
       Flags: 0000
       Languages_Touch: []
     - Term: key_BananasPerSec
       TermType: 0
       Description: 
       Languages:
-      - cake/sec
-      - "\u30B1\u30FC\u30AD/\u79D2"
+      - car/sec
+      - "\u304F\u308B\u307E/\u79D2"
       Flags: 0000
       Languages_Touch: []
     - Term: key_BuildingsDialog_Caption
@@ -270,7 +334,7 @@ MonoBehaviour:
       Description: 
       Languages:
       - 
-      - "\u30B1\u30FC\u30AD/\u79D2"
+      - "\u304F\u308B\u307E/\u79D2"
       Flags: 0000
       Languages_Touch: []
     - Term: key_Cant_Discard
@@ -357,7 +421,7 @@ MonoBehaviour:
       TermType: 0
       Description: 
       Languages:
-      - Watch video to get {multiplier}x rewards ({sushiCount} cake)
+      - Watch video to get {multiplier}x rewards ({sushiCount} car)
       - "\u52D5\u753B\u3092\u898B\u3066\u5831\u916C\u3092{multiplier}\u500D({sushiCount}\u500B)\u306B\u3059\u308B"
       Flags: 0000
       Languages_Touch: []
@@ -365,17 +429,17 @@ MonoBehaviour:
       TermType: 0
       Description: 
       Languages:
-      - 'Level Up Reward: {sushiCount} Cake for you!'
+      - 'Level Up Reward: {sushiCount} Car for you!'
       - "\u30EC\u30D9\u30EB\u30A2\u30C3\u30D7\u5831\u916C\u3068\u3057\u3066\\n{sushiCount}
-        \u500B\u306E\u30B1\u30FC\u30AD\u3092\u30D7\u30EC\u30BC\u30F3\u30C8\uFF01"
+        \u500B\u306E\u304F\u308B\u307E\u3092\u30D7\u30EC\u30BC\u30F3\u30C8\uFF01"
       Flags: 0000
       Languages_Touch: []
     - Term: key_LevelUpReward_Caption
       TermType: 0
       Description: 
       Languages:
-      - You got {sushiCount} cake as a reward.
-      - "\u5831\u916C\u306E\u30B1\u30FC\u30AD\u3092 {sushiCount} \u500B\u30B2\u30C3\u30C8\u3057\u307E\u3057\u305F\u3002"
+      - You got {sushiCount} car as a reward.
+      - "\u5831\u916C\u306E\u304F\u308B\u307E\u3092 {sushiCount} \u500B\u30B2\u30C3\u30C8\u3057\u307E\u3057\u305F\u3002"
       Flags: 0000
       Languages_Touch: []
     - Term: key_LevelUpReward_Success_Message
@@ -480,9 +544,9 @@ MonoBehaviour:
       Description: 
       Languages:
       - 'Time since you last played:\n{days} days, {hours} hours, {minutes} minutes,
-        {seconds} seconds,\nYou made: {bananas} Cake.'
+        {seconds} seconds,\nYou made: {bananas} Car.'
       - "\u6700\u5F8C\u306B\u30D7\u30EC\u30A4\u3057\u3066\u304B\u3089\\n{days}\u65E5
-        {hours}\u6642\u9593 {minutes}\u5206 {seconds}\u79D2\\n\u7372\u5F97\u30B1\u30FC\u30AD\\n{bananas}"
+        {hours}\u6642\u9593 {minutes}\u5206 {seconds}\u79D2\\n\u7372\u5F97\u304F\u308B\u307E\\n{bananas}"
       Flags: 0000
       Languages_Touch: []
     - Term: key_RewardAdFailedToLoad
@@ -521,11 +585,11 @@ MonoBehaviour:
       TermType: 0
       Description: 
       Languages:
-      - 'To unlock prestige you need more than 1 trillion cake.
+      - 'To unlock prestige you need more than 1 trillion car.
 
         Each level
-        of Prestige grants you a 1% increase in cake production.'
-      - "\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u3092\u30A2\u30F3\u30ED\u30C3\u30AF\u3059\u308B\u306B\u306F\u3001\n1\u5146\u500B\u4EE5\u4E0A\u306E\u30B1\u30FC\u30AD\u304C\u5FC5\u8981\u3067\u3059\u3002\n\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u306E\u30EC\u30D9\u30EB\u304C\u4E0A\u304C\u308B\u3054\u3068\u306B\u3001\n\u30B1\u30FC\u30AD\u306E\u751F\u7523\u91CF\u304C1%\u5897\u52A0\u3057\u307E\u3059\u3002"
+        of Prestige grants you a 1% increase in car production.'
+      - "\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u3092\u30A2\u30F3\u30ED\u30C3\u30AF\u3059\u308B\u306B\u306F\u3001\n1\u5146\u53F0\u4EE5\u4E0A\u306E\u304F\u308B\u307E\u304C\u5FC5\u8981\u3067\u3059\u3002\n\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u306E\u30EC\u30D9\u30EB\u304C\u4E0A\u304C\u308B\u3054\u3068\u306B\u3001\n\u304F\u308B\u307E\u306E\u751F\u7523\u91CF\u304C1%\u5897\u52A0\u3057\u307E\u3059\u3002"
       Flags: 0000
       Languages_Touch: []
     - Term: key_StatsDialog_PrestigeLevelText
@@ -540,8 +604,8 @@ MonoBehaviour:
       TermType: 0
       Description: 
       Languages:
-      - Total Cake
-      - "\u7D2F\u8A08\u30B1\u30FC\u30AD\u6570"
+      - Total Car
+      - "\u7D2F\u8A08\u304F\u308B\u307E\u6570"
       Flags: 0000
       Languages_Touch: []
     - Term: key_SupportButtonText
@@ -648,70 +712,6 @@ MonoBehaviour:
       - "\u3042\u306A\u305F"
       Flags: 0000
       Languages_Touch: []
-    - Term: "\u30A2\u30A4\u30C9\u30EB\u30D0\u30FC\u30B9\u5BFF\u53F8"
-      TermType: 0
-      Description: 
-      Languages:
-      - Dreamy Cake World
-      - "\u3086\u3081\u307F\u308B\u30B1\u30FC\u30AD\u305B\u304B\u3044"
-      Flags: 0000
-      Languages_Touch: []
-    - Term: "\u30B3\u30FC\u30C6\u30C3\u30AF\u30B9\u5BFF\u53F8"
-      TermType: 0
-      Description: 
-      Languages:
-      - Clever Sweet Mind
-      - "\u304D\u3089\u3081\u304D\u30B9\u30A4\u30FC\u30C4\u30DE\u30A4\u30F3\u30C9"
-      Flags: 0000
-      Languages_Touch: []
-    - Term: "\u53CD\u5BFF\u53F8\u51DD\u7E2E\u7089"
-      TermType: 0
-      Description: 
-      Languages:
-      - Dreamy Sugar Drop
-      - "\u3086\u3081\u306E\u30B7\u30E5\u30AC\u30FC\u3057\u305A\u304F"
-      Flags: 0000
-      Languages_Touch: []
-    - Term: "\u5BFF\u53F8\u30B3\u30F3\u30BD\u30FC\u30EB"
-      TermType: 0
-      Description: 
-      Languages:
-      - Magical Cake Fork
-      - "\u307E\u307B\u3046\u306E\u30B1\u30FC\u30AD\u30D5\u30A9\u30FC\u30AF"
-      Flags: 0000
-      Languages_Touch: []
-    - Term: "\u5BFF\u53F8\u30BF\u30A4\u30E0\u30DE\u30B7\u30F3"
-      TermType: 0
-      Description: 
-      Languages:
-      - Antique Cake Cafe
-      - "\u3068\u3051\u3044\u3068\u3046\u306E\u30B1\u30FC\u30AD\u30AB\u30D5\u30A7"
-      Flags: 0000
-      Languages_Touch: []
-    - Term: "\u5BFF\u53F8\u30D7\u30EA\u30BA\u30E0"
-      TermType: 0
-      Description: 
-      Languages:
-      - Aurora Sugar Prism
-      - "\u30AA\u30FC\u30ED\u30E9\u30B7\u30E5\u30AC\u30FC\u30D7\u30EA\u30BA\u30E0"
-      Flags: 0000
-      Languages_Touch: []
-    - Term: "\u81EA\u5DF1\u5897\u6B96\u5BFF\u53F8\u30A8\u30F3\u30B8\u30F3"
-      TermType: 0
-      Description: 
-      Languages:
-      - Never-ending Cake
-      - "\u3068\u307E\u3089\u306A\u3044\u30B1\u30FC\u30AD"
-      Flags: 0000
-      Languages_Touch: []
-    - Term: "\u904B\u547D\u64CD\u4F5C\u88C5\u7F6E"
-      TermType: 0
-      Description: 
-      Languages:
-      - Dreamy Sweet Wand
-      - "\u3086\u3081\u307F\u308B\u30B9\u30A4\u30FC\u30C4\u30B9\u30C6\u30C3\u30AD"
-      Flags: 0000
-      Languages_Touch: []
     CaseInsensitiveTerms: 0
     OnMissingTranslation: 1
     mTerm_AppName: key_AppName
@@ -727,7 +727,7 @@ MonoBehaviour:
     Google_WebServiceURL: https://script.google.com/macros/s/AKfycbypmTdyPYPpiTybi4DGezc2Uu9MDCd-zQTn8NLzpULwmSL0rNbKh87zGBtR6RIV-mKi/exec
     Google_SpreadsheetKey: 1_OlWZz1AFyQrHhc-6qvxbpj56oY1gXV4KKuGJUioWtI
     Google_SpreadsheetName: I2Loc EssentialCarsClicker Localization
-    Google_LastUpdatedVersion: 1777303143090
+    Google_LastUpdatedVersion: 1777870604845
     Google_Password: change_this
     GoogleUpdateFrequency: 3
     GoogleInEditorCheckFrequency: 2

@@ -5,11 +5,18 @@ using UnityEngine;
 namespace SushiClicker
 {
     /// <summary>
-    /// 背景に寿司を一定間隔で生成するマネージャー。
+    /// 背景に車を左右から一定間隔で生成するマネージャー。
     /// SpriteRenderer + 一括Update で大量表示に対応する。
     /// </summary>
     public class SushiRainManager : MonoBehaviour
     {
+        private enum SpawnDirection
+        {
+            Left,
+            Right,
+            Both
+        }
+
         [SerializeField] private ClickButtonConfig _config = null;
         [SerializeField] private GameObject _fallingSushiPrefab = null;
 
@@ -20,6 +27,8 @@ namespace SushiClicker
         [SerializeField] private int _maxActiveCount = 200;
         [SerializeField] private float _spawnIntervalMin = 0.05f;
         [SerializeField] private float _spawnIntervalMax = 0.3f;
+        [SerializeField] private SpawnDirection _spawnDirection = SpawnDirection.Both;
+        [SerializeField] private float _minSpawnYSpacing = 0.6f;
         [SerializeField] private float _speedMin = 2f;
         [SerializeField] private float _speedMax = 5f;
         [SerializeField] private float _scaleMin = 0.005f;
@@ -116,7 +125,7 @@ namespace SushiClicker
         }
 
         /// <summary>
-        /// 全アクティブアイテムを一括で移動させる。個別の Update() を不要にする。
+        /// 全アクティブアイテムを一括で横移動させる。個別の Update() を不要にする。
         /// </summary>
         private void Update()
         {
@@ -128,10 +137,13 @@ namespace SushiClicker
                 var item = _activeItems[i];
                 var t = item.transform;
                 var pos = t.position;
-                pos.y -= item.Speed * dt;
+                pos.x += item.VelocityX * dt;
                 t.position = pos;
 
-                if (pos.y < item.DestroyY)
+                // 進行方向の反対側端を超えたら回収
+                bool isOutOfBounds = (item.VelocityX > 0f && pos.x > item.DestroyX) ||
+                                     (item.VelocityX < 0f && pos.x < item.DestroyX);
+                if (isOutOfBounds)
                 {
                     _activeItems.RemoveAt(i);
                     ReturnToPool(item);
@@ -158,10 +170,36 @@ namespace SushiClicker
             if (_fallingSushiPrefab == null || sprites == null || sprites.Length == 0) return;
 
             float margin = 0.5f;
-            float spawnX = Random.Range(_worldLeft - margin, _worldRight + margin);
-            float spawnY = _worldTop + 1f;
-            float destroyY = _worldBottom - 1f;
-            float speed = Random.Range(_speedMin, _speedMax);
+            bool fromRight = _spawnDirection switch
+            {
+                SpawnDirection.Left => false,
+                SpawnDirection.Right => true,
+                _ => Random.value < 0.5f
+            };
+
+            float spawnX;
+            float destroyX;
+            float velocityX;
+            bool flipX;
+
+            if (fromRight)
+            {
+                // 右から左に向かう：スプライトを反転しない
+                spawnX = _worldRight + margin;
+                destroyX = _worldLeft - margin;
+                velocityX = -Random.Range(_speedMin, _speedMax);
+                flipX = false;
+            }
+            else
+            {
+                // 左から右に向かう：スプライトを反転する
+                spawnX = _worldLeft - margin;
+                destroyX = _worldRight + margin;
+                velocityX = Random.Range(_speedMin, _speedMax);
+                flipX = true;
+            }
+
+            if (!TryGetSpawnY(out float spawnY)) return;
 
             var item = GetFromPool();
             item.transform.position = new Vector3(spawnX, spawnY, 0f);
@@ -169,7 +207,55 @@ namespace SushiClicker
             item.transform.localScale = new Vector3(scale, scale, 1f);
 
             var sprite = sprites[Random.Range(0, sprites.Length)];
-            item.Initialize(sprite, destroyY, speed, _sortingLayerName, _sortingOrderBase);
+            item.Initialize(sprite, destroyX, velocityX, flipX, _sortingLayerName, _sortingOrderBase);
+        }
+
+        private bool TryGetSpawnY(out float spawnY)
+        {
+            if (_minSpawnYSpacing <= 0f || _activeItems.Count == 0)
+            {
+                spawnY = Random.Range(_worldBottom, _worldTop);
+                return true;
+            }
+
+            float availableHeight = _worldTop - _worldBottom;
+            if (availableHeight <= 0f)
+            {
+                spawnY = _worldBottom;
+                return false;
+            }
+
+            int laneCount = Mathf.Max(1, Mathf.FloorToInt(availableHeight / _minSpawnYSpacing) + 1);
+            int startLaneIndex = Random.Range(0, laneCount);
+
+            for (int i = 0; i < laneCount; i++)
+            {
+                int laneIndex = (startLaneIndex + i) % laneCount;
+                float normalized = laneCount == 1 ? 0.5f : (float)laneIndex / (laneCount - 1);
+                float candidateY = Mathf.Lerp(_worldBottom, _worldTop, normalized);
+                if (!IsSpawnYOccupied(candidateY))
+                {
+                    spawnY = candidateY;
+                    return true;
+                }
+            }
+
+            spawnY = _worldBottom;
+            return false;
+        }
+
+        private bool IsSpawnYOccupied(float candidateY)
+        {
+            for (int i = 0; i < _activeItems.Count; i++)
+            {
+                float activeY = _activeItems[i].transform.position.y;
+                if (Mathf.Abs(activeY - candidateY) < _minSpawnYSpacing)
+                {
+                    return true;
+                }
+            }
+
+            return false;
         }
     }
 }
