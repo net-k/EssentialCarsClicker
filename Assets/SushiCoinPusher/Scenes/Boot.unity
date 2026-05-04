@@ -591,7 +591,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   iOSAdUnitId: ca-app-pub-2837388897714947/6400551147
-  AndroidAdUnitId: ca-app-pub-2837388897714947/6400551147
+  AndroidAdUnitId: ca-app-pub-2837388897714947/8495305409
 --- !u!114 &1382284374
 MonoBehaviour:
   m_ObjectHideFlags: 0

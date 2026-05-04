@@ -196,6 +196,20 @@ public class BC_Click : MonoBehaviour {
         }
     }
 
+#if UNITY_EDITOR
+    /// <summary>
+    /// Editor専用のデバッグ用として、くるま数を加算して即時保存する。
+    /// </summary>
+    public void AddCarsForDebug(double carsToAdd)
+    {
+        AddBananas(carsToAdd);
+        CheckLevelUp();
+        SaveBananaData();
+
+        Debug.Log($"BC_Click.AddCarsForDebug: {carsToAdd} 加算後の所持くるま数 = {bananas}");
+    }
+#endif
+
     /// <summary>
     /// 累積バナナ総数でレベルアップを確認する。
     /// Clicked() などの主要な操作の最後で一度だけ呼び出す。

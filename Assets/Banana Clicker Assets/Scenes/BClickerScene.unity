@@ -2894,7 +2894,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Quiz.Framework.Ad.AdMob.AdMobRewardedInterstitial
   iOSAdUnitId: ca-app-pub-2837388897714947/3073793690
-  AndroidAdUnitId: ca-app-pub-2837388897714947/2265865018
+  AndroidAdUnitId: ca-app-pub-2837388897714947/7702021925
 --- !u!1 &881997535
 GameObject:
   m_ObjectHideFlags: 0
@@ -5718,6 +5718,7 @@ MonoBehaviour:
   _spawnIntervalMin: 0.05
   _spawnIntervalMax: 0.3
   _spawnDirection: 1
+  _minSpawnYSpacing: 0.6
   _speedMin: 1
   _speedMax: 2.4
   _scaleMin: 0.13
