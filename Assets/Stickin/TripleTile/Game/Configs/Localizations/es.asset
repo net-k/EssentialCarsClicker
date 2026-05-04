@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d81a862722cb74a4c89e9809c3775155, type: 3}
+  m_Name: es
+  m_EditorClassIdentifier: 
+  Name: es
+  Id: 34
+  LocalizedTitle: "Espa\xF1ol"
+  Texts:
+  - Key: strAbc
+    Value: "ESTNORU\xD3QLBCADFIKMGYJHPZVXW"
+  - Key: strPlay
+    Value: Jugar
+  - Key: strSettings
+    Value: Ajustes
+  - Key: strSounds
+    Value: sonidos
+  - Key: strVibrations
+    Value: Vibraciones
+  - Key: strPrivacyPolicy
+    Value: "pol\xEDtica de privacidad"
+  - Key: strCollect
+    Value: Recolectar
+  - Key: strCollectX
+    Value: Recoger x{0}
+  - Key: strSelectLanguage
+    Value: Seleccione el idioma
+  - Key: strSelect
+    Value: Seleccionar
+  - Key: strComplete
+    Value: Completo
+  - Key: strTutorial
+    Value: Tutorial
+  - Key: strLanguage
+    Value: Idioma
+  - Key: strFree
+    Value: Gratis
+  - Key: strLevel
+    Value: Nivel {0}
+  - Key: strMoreGames
+    Value: "M\xE1s juegos"
+  - Key: strCancel
+    Value: Cancelar
+  - Key: strTryGame
+    Value: Prueba el juego
+  - Key: strSkip
+    Value: Saltar
+  - Key: strNext
+    Value: "Pr\xF3ximo"
+  - Key: strExcellent
+    Value: Excelente
+  - Key: strAwesome
+    Value: Impresionante
+  - Key: strGood
+    Value: Bien
+  - Key: strLater
+    Value: "M\xE1s tarde"
+  - Key: strRate
+    Value: Tasa
+  - Key: strRateGame
+    Value: Califica el juego
+  - Key: strMonth_1
+    Value: Enero
+  - Key: strMonth_2
+    Value: Febrero
+  - Key: strMonth_3
+    Value: Marzo
+  - Key: strMonth_4
+    Value: Abril
+  - Key: strMonth_5
+    Value: Puede
+  - Key: strMonth_6
+    Value: Junio
+  - Key: strMonth_7
+    Value: Julio
+  - Key: strMonth_8
+    Value: Agosto
+  - Key: strMonth_9
+    Value: Septiembre
+  - Key: strMonth_10
+    Value: Octubre
+  - Key: strMonth_11
+    Value: Noviembre
+  - Key: strMonth_12
+    Value: Diciembre
+  - Key: strMon
+    Value: Mon
+  - Key: strTue
+    Value: Tue
+  - Key: strWed
+    Value: Wed
+  - Key: strThu
+    Value: Thu
+  - Key: strFri
+    Value: Fri
+  - Key: strSat
+    Value: Sat
+  - Key: strSun
+    Value: Sun
+  - Key: strContinue
+    Value: Continuar
+  - Key: strDailyChallenge
+    Value: Reto diario
+  - Key: strPlayAgain
+    Value: Juega nivel otra vez
+  - Key: strLevelComplete
+    Value: "\xA1Nivel completado!"
+  - Key: strNextLevel
+    Value: Siguiente nivel
+  - Key: strMenu
+    Value: "Men\xFA"
+  - Key: strNewGame
+    Value: Nuevo juego
+  - Key: strEasy
+    Value: "F\xE1cil"
+  - Key: strNormal
+    Value: Normal
+  - Key: strHard
+    Value: Duro
+  - Key: strLegendary
+    Value: Legendario
+  - Key: strReplay
+    Value: "Repetici\xF3n"
+  - Key: strLose
+    Value: Perder
+  - Key: strYouLose
+    Value: "T\xFA pierdes"
+  - Key: strLanguages
+    Value: Idiomas
+  - Key: strYouWin
+    Value: "T\xFA ganas"
+  - Key: strReward
+    Value: Premio
+  - Key: strMoreHealth
+    Value: "M\xE1s salud"
+  - Key: strTutorialStep1
+    Value: "Recoge tres fichas a la vez. Completa el nivel y obt\xE9n tu recompensa."
+  - Key: strEasy
+    Value: "F\xE1cil"
+  - Key: strNormal
+    Value: Normal
+  - Key: strHard
+    Value: Duro
+  - Key: strExpert
+    Value: Experto
+  - Key: strNoAds
+    Value: Anuncios no listos
+  - Key: strNoSpins
+    Value: Giros no disponibles hoy
+  - Key: strNoCoins
+    Value: No hay suficientes monedas
+  - Key: strLicense
+    Value: Licencia
+  IsAvailable: 1

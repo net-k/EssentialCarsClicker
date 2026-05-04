@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d81a862722cb74a4c89e9809c3775155, type: 3}
+  m_Name: en
+  m_EditorClassIdentifier: 
+  Name: en
+  Id: 10
+  LocalizedTitle: English
+  Texts:
+  - Key: strAbc
+    Value: BOATUSCRELXFNDWKPHMYIJGVQZ
+  - Key: strPlay
+    Value: Play
+  - Key: strSettings
+    Value: Settings
+  - Key: strSounds
+    Value: Sounds
+  - Key: strVibrations
+    Value: Vibrations
+  - Key: strPrivacyPolicy
+    Value: Privacy Policy
+  - Key: strCollect
+    Value: Collect
+  - Key: strCollectX
+    Value: Collect x{0}
+  - Key: strSelectLanguage
+    Value: Select language
+  - Key: strSelect
+    Value: Select
+  - Key: strComplete
+    Value: Complete
+  - Key: strTutorial
+    Value: Tutorial
+  - Key: strLanguage
+    Value: Language
+  - Key: strFree
+    Value: Free
+  - Key: strLevel
+    Value: Level {0}
+  - Key: strMoreGames
+    Value: More games
+  - Key: strCancel
+    Value: Cancel
+  - Key: strTryGame
+    Value: Try game
+  - Key: strSkip
+    Value: Skip
+  - Key: strNext
+    Value: Next
+  - Key: strExcellent
+    Value: Excellent
+  - Key: strAwesome
+    Value: Awesome
+  - Key: strGood
+    Value: Good
+  - Key: strLater
+    Value: Later
+  - Key: strRate
+    Value: Rate
+  - Key: strRateGame
+    Value: Rate game
+  - Key: strMonth_1
+    Value: January
+  - Key: strMonth_2
+    Value: February
+  - Key: strMonth_3
+    Value: March
+  - Key: strMonth_4
+    Value: April
+  - Key: strMonth_5
+    Value: May
+  - Key: strMonth_6
+    Value: June
+  - Key: strMonth_7
+    Value: July
+  - Key: strMonth_8
+    Value: August
+  - Key: strMonth_9
+    Value: September
+  - Key: strMonth_10
+    Value: October
+  - Key: strMonth_11
+    Value: November
+  - Key: strMonth_12
+    Value: December
+  - Key: strMon
+    Value: Mon
+  - Key: strTue
+    Value: Tue
+  - Key: strWed
+    Value: Wed
+  - Key: strThu
+    Value: Thu
+  - Key: strFri
+    Value: Fri
+  - Key: strSat
+    Value: Sat
+  - Key: strSun
+    Value: Sun
+  - Key: strContinue
+    Value: Continue
+  - Key: strDailyChallenge
+    Value: Daily challenge
+  - Key: strPlayAgain
+    Value: Play level again
+  - Key: strLevelComplete
+    Value: Level complete!
+  - Key: strNextLevel
+    Value: Next level
+  - Key: strMenu
+    Value: Menu
+  - Key: strNewGame
+    Value: New game
+  - Key: strEasy
+    Value: Easy
+  - Key: strNormal
+    Value: Normal
+  - Key: strHard
+    Value: Hard
+  - Key: strLegendary
+    Value: Legendary
+  - Key: strReplay
+    Value: Replay
+  - Key: strLose
+    Value: Lose
+  - Key: strYouLose
+    Value: You Lose
+  - Key: strLanguages
+    Value: Languages
+  - Key: strYouWin
+    Value: You Win
+  - Key: strReward
+    Value: Reward
+  - Key: strMoreHealth
+    Value: More health
+  - Key: strTutorialStep1
+    Value: Collect three tiles at a time. Complete the level and get your reward
+  - Key: strEasy
+    Value: Easy
+  - Key: strNormal
+    Value: Normal
+  - Key: strHard
+    Value: Hard
+  - Key: strExpert
+    Value: Expert
+  - Key: strNoAds
+    Value: Ads not ready
+  - Key: strNoSpins
+    Value: Not available spins today
+  - Key: strNoCoins
+    Value: Not enough coins
+  - Key: strLicense
+    Value: License
+  IsAvailable: 1

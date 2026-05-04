@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d81a862722cb74a4c89e9809c3775155, type: 3}
+  m_Name: pt
+  m_EditorClassIdentifier: 
+  Name: pt
+  Id: 28
+  LocalizedTitle: "Portugu\xEAs"
+  Texts:
+  - Key: strAbc
+    Value: "NORTELSUKAXIFM\xD4CHVDJ\xC9BPQZ\xC2\xC7\xC3\xCDG\xCA\xDA\xD3\xC1YW\xDB\xD5\xC0"
+  - Key: strPlay
+    Value: Jogar
+  - Key: strSettings
+    Value: "Configura\xE7\xF5es"
+  - Key: strSounds
+    Value: Sons
+  - Key: strVibrations
+    Value: "Vibra\xE7\xF5es"
+  - Key: strPrivacyPolicy
+    Value: "pol\xEDtica de Privacidade"
+  - Key: strCollect
+    Value: Coletar
+  - Key: strCollectX
+    Value: Colete x{0}
+  - Key: strSelectLanguage
+    Value: Selecione o idioma
+  - Key: strSelect
+    Value: Selecione
+  - Key: strComplete
+    Value: Completo
+  - Key: strTutorial
+    Value: Tutorial
+  - Key: strLanguage
+    Value: Linguagem
+  - Key: strFree
+    Value: Livre
+  - Key: strLevel
+    Value: "N\xEDvel {0}"
+  - Key: strMoreGames
+    Value: Mais jogos
+  - Key: strCancel
+    Value: Cancelar
+  - Key: strTryGame
+    Value: Experimente o jogo
+  - Key: strSkip
+    Value: Pular
+  - Key: strNext
+    Value: "Pr\xF3ximo"
+  - Key: strExcellent
+    Value: Excelente
+  - Key: strAwesome
+    Value: "Incr\xEDvel"
+  - Key: strGood
+    Value: Bom
+  - Key: strLater
+    Value: Mais tarde
+  - Key: strRate
+    Value: Avaliar
+  - Key: strRateGame
+    Value: Taxa de jogo
+  - Key: strMonth_1
+    Value: Janeiro
+  - Key: strMonth_2
+    Value: Fevereiro
+  - Key: strMonth_3
+    Value: Marchar
+  - Key: strMonth_4
+    Value: abril
+  - Key: strMonth_5
+    Value: Poderia
+  - Key: strMonth_6
+    Value: Junho
+  - Key: strMonth_7
+    Value: Julho
+  - Key: strMonth_8
+    Value: Agosto
+  - Key: strMonth_9
+    Value: Setembro
+  - Key: strMonth_10
+    Value: Outubro
+  - Key: strMonth_11
+    Value: novembro
+  - Key: strMonth_12
+    Value: dezembro
+  - Key: strMon
+    Value: Mon
+  - Key: strTue
+    Value: Tue
+  - Key: strWed
+    Value: Wed
+  - Key: strThu
+    Value: Thu
+  - Key: strFri
+    Value: Fri
+  - Key: strSat
+    Value: Sat
+  - Key: strSun
+    Value: Sun
+  - Key: strContinue
+    Value: Continuar
+  - Key: strDailyChallenge
+    Value: "Desafio di\xE1rio"
+  - Key: strPlayAgain
+    Value: "Jogue de n\xEDvel novamente"
+  - Key: strLevelComplete
+    Value: "N\xEDvel completo!"
+  - Key: strNextLevel
+    Value: "Pr\xF3ximo n\xEDvel"
+  - Key: strMenu
+    Value: "Card\xE1pio"
+  - Key: strNewGame
+    Value: Novo jogo
+  - Key: strEasy
+    Value: "F\xE1cil"
+  - Key: strNormal
+    Value: Normal
+  - Key: strHard
+    Value: Duro
+  - Key: strLegendary
+    Value: "Lend\xE1rio"
+  - Key: strReplay
+    Value: Repetir
+  - Key: strLose
+    Value: Perder
+  - Key: strYouLose
+    Value: "Voc\xEA perdeu"
+  - Key: strLanguages
+    Value: "l\xEDnguas"
+  - Key: strYouWin
+    Value: "Voc\xEA ganha"
+  - Key: strReward
+    Value: Recompensa
+  - Key: strMoreHealth
+    Value: "Mais sa\xFAde"
+  - Key: strTutorialStep1
+    Value: "Colete tr\xEAs pe\xE7as de cada vez. Complete o n\xEDvel e receba sua
+      recompensa"
+  - Key: strEasy
+    Value: "F\xE1cil"
+  - Key: strNormal
+    Value: Normal
+  - Key: strHard
+    Value: Duro
+  - Key: strExpert
+    Value: Especialista
+  - Key: strNoAds
+    Value: "An\xFAncios n\xE3o prontos"
+  - Key: strNoSpins
+    Value: "Rodadas n\xE3o dispon\xEDveis hoje"
+  - Key: strNoCoins
+    Value: "N\xE3o h\xE1 moedas suficientes"
+  - Key: strLicense
+    Value: "Licen\xE7a"
+  IsAvailable: 1

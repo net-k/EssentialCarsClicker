@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82ab819cb220f0f4da92914b596d1c78
+timeCreated: 1444648466
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36097
+  packageName: Incremental Idle Clicker Game - Banana Clicker
+  packageVersion: 2.2
+  assetPath: Assets/Banana Clicker Assets/_Scenes/BClickerScene.unity
+  uploadId: 212708

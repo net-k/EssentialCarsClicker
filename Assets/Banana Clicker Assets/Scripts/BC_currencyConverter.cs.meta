@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 18ab1db6d7b9d5140ad9f0a1133d3e4b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36097
+  packageName: Incremental Idle Clicker Game - Banana Clicker
+  packageVersion: 2.2
+  assetPath: Assets/Banana Clicker Assets/Scripts/BC_currencyConverter.cs
+  uploadId: 212708

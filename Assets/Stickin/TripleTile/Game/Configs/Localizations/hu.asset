@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d81a862722cb74a4c89e9809c3775155, type: 3}
+  m_Name: hu
+  m_EditorClassIdentifier: 
+  Name: hu
+  Id: 18
+  LocalizedTitle: Magyar
+  Texts:
+  - Key: strAbc
+    Value: "BOTKAN\xC1LDUJYR\u0150SZV\xC9PIG\xD6EF\xCD\u0170HMCWXQ"
+  - Key: strPlay
+    Value: "J\xE1t\xE9k"
+  - Key: strSettings
+    Value: "Be\xE1ll\xEDt\xE1sok"
+  - Key: strSounds
+    Value: Hangok
+  - Key: strVibrations
+    Value: "Rezg\xE9sek"
+  - Key: strPrivacyPolicy
+    Value: "Adatv\xE9delmi ir\xE1nyelvek"
+  - Key: strCollect
+    Value: "Gy\u0171jt"
+  - Key: strCollectX
+    Value: "Gy\u0171jts \xF6ssze x-et{0}"
+  - Key: strSelectLanguage
+    Value: "V\xE1lasszon nyelvet"
+  - Key: strSelect
+    Value: "V\xE1lassza ki"
+  - Key: strComplete
+    Value: teljes
+  - Key: strTutorial
+    Value: "Oktat\xF3anyag"
+  - Key: strLanguage
+    Value: Nyelv
+  - Key: strFree
+    Value: Ingyenes
+  - Key: strLevel
+    Value: '{0}. szint'
+  - Key: strMoreGames
+    Value: "T\xF6bb j\xE1t\xE9k"
+  - Key: strCancel
+    Value: "Megsz\xFCnteti"
+  - Key: strTryGame
+    Value: "Pr\xF3b\xE1ld ki a j\xE1t\xE9kot"
+  - Key: strSkip
+    Value: "Kihagy\xE1s"
+  - Key: strNext
+    Value: "K\xF6vetkez\u0151"
+  - Key: strExcellent
+    Value: "Kiv\xE1l\xF3"
+  - Key: strAwesome
+    Value: Fantasztikus
+  - Key: strGood
+    Value: "J\xF3"
+  - Key: strLater
+    Value: "A k\xE9s\u0151bbiekben"
+  - Key: strRate
+    Value: "M\xE9rt\xE9k"
+  - Key: strRateGame
+    Value: "\xC9rt\xE9keld a j\xE1t\xE9kot"
+  - Key: strMonth_1
+    Value: "janu\xE1r"
+  - Key: strMonth_2
+    Value: "febru\xE1r"
+  - Key: strMonth_3
+    Value: "m\xE1rcius"
+  - Key: strMonth_4
+    Value: "\xE1prilis"
+  - Key: strMonth_5
+    Value: Lehet
+  - Key: strMonth_6
+    Value: "j\xFAnius"
+  - Key: strMonth_7
+    Value: "j\xFAlius"
+  - Key: strMonth_8
+    Value: augusztus
+  - Key: strMonth_9
+    Value: szeptember
+  - Key: strMonth_10
+    Value: "okt\xF3ber"
+  - Key: strMonth_11
+    Value: november
+  - Key: strMonth_12
+    Value: december
+  - Key: strMon
+    Value: Mon
+  - Key: strTue
+    Value: Tue
+  - Key: strWed
+    Value: Wed
+  - Key: strThu
+    Value: Thu
+  - Key: strFri
+    Value: Fri
+  - Key: strSat
+    Value: Sat
+  - Key: strSun
+    Value: Sun
+  - Key: strContinue
+    Value: Folytatni
+  - Key: strDailyChallenge
+    Value: "Napi kih\xEDv\xE1s"
+  - Key: strPlayAgain
+    Value: "J\xE1tssz szintet \xFAjra"
+  - Key: strLevelComplete
+    Value: "Szint teljes\xEDtve!"
+  - Key: strNextLevel
+    Value: "K\xF6vetkez\u0151 szint"
+  - Key: strMenu
+    Value: "Men\xFC"
+  - Key: strNewGame
+    Value: "\xDAj j\xE1t\xE9k"
+  - Key: strEasy
+    Value: "K\xF6nnyen"
+  - Key: strNormal
+    Value: "Norm\xE1l"
+  - Key: strHard
+    Value: "Kem\xE9ny"
+  - Key: strLegendary
+    Value: "Legend\xE1s"
+  - Key: strReplay
+    Value: "Visszaj\xE1tsz\xE1s"
+  - Key: strLose
+    Value: "elvesz\xEDt"
+  - Key: strYouLose
+    Value: Vesztesz
+  - Key: strLanguages
+    Value: Nyelvek
+  - Key: strYouWin
+    Value: "Te nyert\xE9l"
+  - Key: strReward
+    Value: Jutalom
+  - Key: strMoreHealth
+    Value: "T\xF6bb eg\xE9szs\xE9get"
+  - Key: strTutorialStep1
+    Value: "Gy\u0171jts \xF6ssze h\xE1rom lapk\xE1t egyszerre. Teljes\xEDtsd a szintet
+      \xE9s kapd meg a jutalmad"
+  - Key: strEasy
+    Value: "K\xF6nnyen"
+  - Key: strNormal
+    Value: "Norm\xE1l"
+  - Key: strHard
+    Value: "Kem\xE9ny"
+  - Key: strExpert
+    Value: "Szak\xE9rt\u0151"
+  - Key: strNoAds
+    Value: "A hirdet\xE9sek nincsenek k\xE9szen"
+  - Key: strNoSpins
+    Value: "Ma nem el\xE9rhet\u0151 p\xF6rget\xE9sek"
+  - Key: strNoCoins
+    Value: "Nem el\xE9g \xE9rme"
+  - Key: strLicense
+    Value: Licenc
+  IsAvailable: 1

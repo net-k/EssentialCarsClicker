@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d81a862722cb74a4c89e9809c3775155, type: 3}
+  m_Name: jp
+  m_EditorClassIdentifier: 
+  Name: jp
+  Id: 22
+  LocalizedTitle: Japanese
+  Texts:
+  - Key: strAbc
+    Value: BOATUSCRELXFNDWKPHMYIJGVQZ
+  - Key: strPlay
+    Value: "\u30D7\u30EC\u30A4"
+  - Key: strSettings
+    Value: "\u8A2D\u5B9A"
+  - Key: strSounds
+    Value: "\u30B5\u30A6\u30F3\u30C9"
+  - Key: strVibrations
+    Value: "\u632F\u52D5"
+  - Key: strPrivacyPolicy
+    Value: "\u30D7\u30E9\u30A4\u30D0\u30B7\u30FC\u30DD\u30EA\u30B7\u30FC"
+  - Key: strCollect
+    Value: "\u53CE\u96C6"
+  - Key: strCollectX
+    Value: "x{0} \u3092\u53CE\u96C6"
+  - Key: strSelectLanguage
+    Value: "\u8A00\u8A9E\u3092\u9078\u629E"
+  - Key: strSelect
+    Value: "\u9078\u629E"
+  - Key: strComplete
+    Value: "\u5B8C\u4E86"
+  - Key: strTutorial
+    Value: "\u30C1\u30E5\u30FC\u30C8\u30EA\u30A2\u30EB"
+  - Key: strLanguage
+    Value: "\u8A00\u8A9E"
+  - Key: strFree
+    Value: "\u7121\u6599"
+  - Key: strLevel
+    Value: "\u30EC\u30D9\u30EB {0}"
+  - Key: strMoreGames
+    Value: "\u4ED6\u306E\u30B2\u30FC\u30E0"
+  - Key: strCancel
+    Value: "\u30AD\u30E3\u30F3\u30BB\u30EB"
+  - Key: strTryGame
+    Value: "\u30B2\u30FC\u30E0\u3092\u30C8\u30E9\u30A4"
+  - Key: strSkip
+    Value: "\u30B9\u30AD\u30C3\u30D7"
+  - Key: strNext
+    Value: "\u6B21\u3078"
+  - Key: strExcellent
+    Value: "\u7D20\u6674\u3089\u3057\u3044"
+  - Key: strAwesome
+    Value: "\u6700\u9AD8\uFF01"
+  - Key: strGood
+    Value: "\u826F\u3044"
+  - Key: strLater
+    Value: "\u5F8C\u3067"
+  - Key: strRate
+    Value: "\u8A55\u4FA1\u3059\u308B"
+  - Key: strRateGame
+    Value: "\u30B2\u30FC\u30E0\u3092\u8A55\u4FA1\u3059\u308B"
+  - Key: strMonth_1
+    Value: "1\u6708"
+  - Key: strMonth_2
+    Value: "2\u6708"
+  - Key: strMonth_3
+    Value: "3\u6708"
+  - Key: strMonth_4
+    Value: "4\u6708"
+  - Key: strMonth_5
+    Value: "5\u6708"
+  - Key: strMonth_6
+    Value: "6\u6708"
+  - Key: strMonth_7
+    Value: "7\u6708"
+  - Key: strMonth_8
+    Value: "8\u6708"
+  - Key: strMonth_9
+    Value: "9\u6708"
+  - Key: strMonth_10
+    Value: "10\u6708"
+  - Key: strMonth_11
+    Value: "11\u6708"
+  - Key: strMonth_12
+    Value: "12\u6708"
+  - Key: strMon
+    Value: "\u6708"
+  - Key: strTue
+    Value: "\u706B"
+  - Key: strWed
+    Value: "\u6C34"
+  - Key: strThu
+    Value: "\u6728"
+  - Key: strFri
+    Value: "\u91D1"
+  - Key: strSat
+    Value: "\u571F"
+  - Key: strSun
+    Value: "\u65E5"
+  - Key: strContinue
+    Value: "\u7D9A\u3051\u308B"
+  - Key: strDailyChallenge
+    Value: "\u30C7\u30A4\u30EA\u30FC\u30C1\u30E3\u30EC\u30F3\u30B8"
+  - Key: strPlayAgain
+    Value: "\u30EC\u30D9\u30EB\u3092\u518D\u30D7\u30EC\u30A4"
+  - Key: strLevelComplete
+    Value: "\u30EC\u30D9\u30EB\u30AF\u30EA\u30A2\uFF01"
+  - Key: strNextLevel
+    Value: "\u6B21\u306E\u30EC\u30D9\u30EB"
+  - Key: strMenu
+    Value: "\u30E1\u30CB\u30E5\u30FC"
+  - Key: strNewGame
+    Value: "\u65B0\u3057\u3044\u30B2\u30FC\u30E0"
+  - Key: strEasy
+    Value: "\u7C21\u5358"
+  - Key: strNormal
+    Value: "\u666E\u901A"
+  - Key: strHard
+    Value: "\u96E3\u3057\u3044"
+  - Key: strLegendary
+    Value: "\u4F1D\u8AAC\u7D1A"
+  - Key: strReplay
+    Value: "\u30EA\u30D7\u30EC\u30A4"
+  - Key: strLose
+    Value: "\u6557\u5317"
+  - Key: strYouLose
+    Value: "\u3042\u306A\u305F\u306E\u8CA0\u3051"
+  - Key: strLanguages
+    Value: "\u8A00\u8A9E"
+  - Key: strYouWin
+    Value: "\u3042\u306A\u305F\u306E\u52DD\u3061"
+  - Key: strReward
+    Value: "\u5831\u916C"
+  - Key: strMoreHealth
+    Value: "\u4F53\u529B\u3092\u5897\u3084\u3059"
+  - Key: strTutorialStep1
+    Value: "\u4E00\u5EA6\u306B3\u3064\u306E\u30BF\u30A4\u30EB\u3092\u96C6\u3081\u3066\u3001\u30EC\u30D9\u30EB\u3092\u30AF\u30EA\u30A2\u3057\u3001\u5831\u916C\u3092\u7372\u5F97\u3057\u3088\u3046"
+  - Key: strEasy
+    Value: "\u7C21\u5358"
+  - Key: strNormal
+    Value: "\u666E\u901A"
+  - Key: strHard
+    Value: "\u96E3\u3057\u3044"
+  - Key: strExpert
+    Value: "\u30A8\u30AD\u30B9\u30D1\u30FC\u30C8"
+  - Key: strNoAds
+    Value: "\u5E83\u544A\u306E\u6E96\u5099\u304C\u3067\u304D\u3066\u3044\u307E\u305B\u3093"
+  - Key: strNoSpins
+    Value: "\u4ECA\u65E5\u306F\u30B9\u30D4\u30F3\u304C\u5229\u7528\u3067\u304D\u307E\u305B\u3093"
+  - Key: strNoCoins
+    Value: "\u30B3\u30A4\u30F3\u304C\u8DB3\u308A\u307E\u305B\u3093"
+  - Key: strLicense
+    Value: "\u30E9\u30A4\u30BB\u30F3\u30B9"
+  IsAvailable: 1

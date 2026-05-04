@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2e8611b307810ff4ca977498da3d9b58
+timeCreated: 1434453361
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36097
+  packageName: Incremental Idle Clicker Game - Banana Clicker
+  packageVersion: 2.2
+  assetPath: Assets/Banana Clicker Assets/Scripts/BC_Bananas.cs
+  uploadId: 212708

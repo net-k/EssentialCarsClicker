@@ -1,0 +1,87 @@
+key,en,jp,ru,da,de,es,fi,fr,hu,it,nb,pl,pt
+русское название языка,Английский,Английский,Русский,Датский,Немецкий,Испанский,Финский,Французский,Венгерский,Итальянский,Норвежский,Польский,Португальский
+локализированное,English,Japanese,Русский,Dansk,Deutsche,Español,Suomalainen,Français,Magyar,Italiano,Norsk,Polski,Português
+,,,,,,,,,,,,,
+strAbc,BOATUSCRELXFNDWKPHMYIJGVQZ,BOATUSCRELXFNDWKPHMYIJGVQZ,ЗИМАЛЕТОСНЬГРУБКЦФДЫХПЙЖВЪШЧЯЭЮЩ,SURFANDOLETÅVIMGKBØPÆJCHYQZXWAZU,GRÜNOTELBSÄUADZFIKMCHWPVYQÖJXORFU,ESTNORUÓQLBCADFIKMGYJHPZVXW,BUSIVENATORKFLMYÄHPJÖDCQZGWX,OUESTNRDMAILBZGFHJVCPKXQWY,BOTKANÁLDUJYRŐSZVÉPIGÖEFÍŰHMCWXQ,NORDESTUVABIFLXCMZGHPJKQYW,BUSILYKEÅTAPVNDRFGOJØMCHQZWTREX,PLAŻUŁSZJEIŃWONMTKFBCRYGŚĄDĘHÓVQŹĆX,NORTELSUKAXIFMÔCHVDJÉBPQZÂÇÃÍGÊÚÓÁYWÛÕÀ
+,,,,,,,,,,,,,
+strPlay,Play,プレイ,Играть,Spil,Spielen,Jugar,pelata,Jouer,Játék,Giocare,Spille,Grać,Jogar
+strSettings,Settings,設定,настройки,Indstillinger,Einstellungen,Ajustes,asetukset,Paramètres,Beállítások,Impostazioni,Innstillinger,Ustawienia,Configurações
+strSounds,Sounds,サウンド,звуки,Lyde,Geräusche,sonidos,Äänet,Des sons,Hangok,Suoni,Lyder,Dźwięki,Sons
+strVibrations,Vibrations,振動,вибрации,Vibrationer,Vibrationen,Vibraciones,Tärinä,Vibrations,Rezgések,Vibrazioni,Vibrasjoner,Wibracje,Vibrações
+strPrivacyPolicy,Privacy Policy,プライバシーポリシー,Политика конфиденциальности,Fortrolighedspolitik,Datenschutzrichtlinie,política de privacidad,Tietosuojakäytäntö,politique de confidentialité,Adatvédelmi irányelvek,politica sulla riservatezza,Personvernerklæring,Polityka prywatności,política de Privacidade
+strCollect,Collect,収集,собрать,Indsamle,Sammeln,Recolectar,Kerätä,Collecter,Gyűjt,Raccogliere,Samle inn,Zbierać,Coletar
+strCollectX,Collect x{0},x{0} を収集,собрать x{0},Saml x{0},Sammle x{0},Recoger x{0},Kerää x{0},Collecter x{0},Gyűjts össze x-et{0},Raccogli x{0},Samle x{0},Zbierz x{0},Colete x{0}
+strSelectLanguage,Select language,言語を選択,Выберите язык,Vælg sprog,Sprache auswählen,Seleccione el idioma,Valitse kieli,Choisir la langue,Válasszon nyelvet,Seleziona la lingua,Velg språk,Wybierz język,Selecione o idioma
+strSelect,Select,選択,Выбрать,Vælg,Wählen,Seleccionar,Valitse,Sélectionner,Válassza ki,Selezionare,Plukke ut,Wybierać,Selecione
+strComplete,Complete,完了,полный,Komplet,Vollständig,Completo,Saattaa loppuun,Complet,teljes,Completare,Fullstendig,Kompletny,Completo
+strTutorial,Tutorial,チュートリアル,Обучение,Tutorial,Lernprogramm,Tutorial,Opetusohjelma,Didacticiel,Oktatóanyag,Esercitazione,Opplæringen,Instruktaż,Tutorial
+strLanguage,Language,言語,язык,Sprog,Sprache,Idioma,Kieli,Langue,Nyelv,Lingua,Språk,Język,Linguagem
+strFree,Free,無料,свободно,Gratis,Frei,Gratis,Vapaa,Gratuit,Ingyenes,Gratuito,Gratis,Bezpłatny,Livre
+strLevel,Level {0},レベル {0},Уровень {0},Niveau {0},Ebene {0},Nivel {0},Taso {0},Niveau {0},{0}. szint,Livello {0},Nivå {0},Poziom {0},Nível {0}
+strMoreGames,More games,他のゲーム,Больше игр,Flere spil,Mehr Spiele,Más juegos,Lisää pelejä,Plus de jeux,Több játék,Più giochi,Flere spill,Więcej gier,Mais jogos
+strCancel,Cancel,キャンセル,Отмена,Afbestille,Stornieren,Cancelar,Peruuttaa,Annuler,Megszünteti,Annulla,Avbryt,Anulować,Cancelar
+strTryGame,Try game,ゲームをトライ,Сыграйте,Prøv spillet,Probieren Sie das Spiel aus,Prueba el juego,Kokeile peliä,Essayez le jeu,Próbáld ki a játékot,Prova il gioco,Prøv spillet,Wypróbuj grę,Experimente o jogo
+,,,,,,,,,,,,,
+strSkip,Skip,スキップ,Пропустить,Springe,Überspringen,Saltar,Ohita,Sauter,Kihagyás,Saltare,Hopp over,Pominąć,Pular
+strNext,Next,次へ,следующий,Næste,Nächste,Próximo,Seuraava,Suivant,Következő,Prossimo,Neste,Następny,Próximo
+strExcellent,Excellent,素晴らしい,превосходно,Fremragende,Exzellent,Excelente,Erinomainen,Excellent,Kiváló,Eccellente,Utmerket,Doskonały,Excelente
+strAwesome,Awesome,最高！,Потрясающие,fantastisk,Eindrucksvoll,Impresionante,Mahtava,Génial,Fantasztikus,Eccezionale,Rått,Wspaniały,Incrível
+strGood,Good,良い,хороший,godt,Gut,Bien,Hyvä,Bien,Jó,Bene,Flink,Dobry,Bom
+,,,,,,,,,,,,,
+strLater,Later,後で,Потом,Senere,Später,Más tarde,Myöhemmin,Plus tard,A későbbiekben,Dopo,Seinere,Później,Mais tarde
+strRate,Rate,評価する,Оценивать,Sats,Rate,Tasa,Rate,Taux,Mérték,Valutare,Vurdere,Wskaźnik,Avaliar
+strRateGame,Rate game,ゲームを評価する,Оценить игру,Bedøm spil,Rate Spiel,Califica el juego,Arvioi peli,Évaluer le jeu,Értékeld a játékot,Valuta il gioco,Vurder spillet,Oceń grę,Taxa de jogo
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+strMonth_1,January,1月,Январь,januar,Januar,Enero,tammikuu,Janvier,január,Gennaio,januar,Styczeń,Janeiro
+strMonth_2,February,2月,Февраль,februar,Februar,Febrero,helmikuu,Février,február,Febbraio,februar,Luty,Fevereiro
+strMonth_3,March,3月,Март,marts,Marsch,Marzo,maaliskuuta,Mars,március,Marzo,mars,Marsz,Marchar
+strMonth_4,April,4月,Апрель,April,April,Abril,huhtikuu,Avril,április,aprile,april,Kwiecień,abril
+strMonth_5,May,5月,Май,Kan,Mai,Puede,saattaa,Peut,Lehet,Maggio,Kan,Móc,Poderia
+strMonth_6,June,6月,Июнь,juni,Juni,Junio,kesäkuuta,Juin,június,Giugno,juni,Czerwiec,Junho
+strMonth_7,July,7月,Июль,juli,Juli,Julio,heinäkuu,Juillet,július,Luglio,juli,Lipiec,Julho
+strMonth_8,August,8月,Август,august,August,Agosto,elokuu,Août,augusztus,agosto,august,Sierpień,Agosto
+strMonth_9,September,9月,Сентябрь,september,September,Septiembre,syyskuu,Septembre,szeptember,settembre,september,Wrzesień,Setembro
+strMonth_10,October,10月,Октябрь,oktober,Oktober,Octubre,lokakuu,Octobre,október,ottobre,oktober,Październik,Outubro
+strMonth_11,November,11月,Ноябрь,november,November,Noviembre,marraskuu,Novembre,november,novembre,november,Listopad,novembro
+strMonth_12,December,12月,Декабрь,december,Dezember,Diciembre,joulukuu,Décembre,december,Dicembre,desember,Grudzień,dezembro
+strMon,Mon,月,Пн,Mon,MO,Mon,Mon,Mon,Mon,Mon,Mon,Mon,Mon
+strTue,Tue,火,Вт,Tue,DI,Tue,Tue,Tue,Tue,Tue,Tue,Tue,Tue
+strWed,Wed,水,Ср,Wed,MI,Wed,Wed,Wed,Wed,Wed,Wed,Wed,Wed
+strThu,Thu,木,Чт,Thu,DO,Thu,Thu,Thu,Thu,Thu,Thu,Thu,Thu
+strFri,Fri,金,Пт,Fri,FR,Fri,Fri,Fri,Fri,Fri,Fri,Fri,Fri
+strSat,Sat,土,Сб,Sat,SA,Sat,Sat,Sat,Sat,Sat,Sat,Sat,Sat
+strSun,Sun,日,Вс,Sun,SO,Sun,Sun,Sun,Sun,Sun,Sun,Sun,Sun
+,,,,,,,,,,,,,
+strContinue,Continue,続ける,Продолжать,Blive ved,Weitermachen,Continuar,Jatkaa,Continuer,Folytatni,Continua,Fortsette,Kontynuować,Continuar
+strDailyChallenge,Daily challenge,デイリーチャレンジ,Ежедневное испытание,Daglig udfordring,Tägliche Herausforderung,Reto diario,Päivittäinen haaste,Challenge quotidien,Napi kihívás,Sfida quotidiana,Daglig utfordring,Wyzwanie dnia,Desafio diário
+strPlayAgain,Play level again,レベルを再プレイ,Пройди уровень еще раз,Spil niveau igen,Wieder Level spielen,Juega nivel otra vez,Pelaa taas tasoa,Rejouer au niveau,Játssz szintet újra,Gioca di nuovo al livello,Spill nivå igjen,Zagraj ponownie na poziomie,Jogue de nível novamente
+strLevelComplete,Level complete!,レベルクリア！,Уровень пройден!,Niveau fuldført!,Level geschafft!,¡Nivel completado!,Taso valmis!,Niveau complet!,Szint teljesítve!,Livello completato!,Nivå fullført!,Poziom ukończony!,Nível completo!
+strNextLevel,Next level,次のレベル,Следующий уровень,Næste niveau,Nächste Ebene,Siguiente nivel,Seuraava taso,Niveau suivant,Következő szint,Livello successivo,Neste nivå,Następny poziom,Próximo nível
+strMenu,Menu,メニュー,Меню,Menu,Speisekarte,Menú,Valikko,Menu,Menü,Menù,Meny,Menu,Cardápio
+,,,,,,,,,,,,,
+strNewGame,New game,新しいゲーム,Новая игра,Nyt spil,Neues Spiel,Nuevo juego,Uusi peli,Nouveau jeu,Új játék,Nuovo gioco,Nytt spill,Nowa gra,Novo jogo
+strEasy,Easy,簡単,Легко,Let,Einfach,Fácil,Helppo,Facile,Könnyen,Facile,Lett,Łatwy,Fácil
+strNormal,Normal,普通,Средне,Normal,Normal,Normal,Normaali,Normale,Normál,Normale,Normal,Normalna,Normal
+strHard,Hard,難しい,Сложно,Hårdt,Hart,Duro,Kovaa,Dur,Kemény,Difficile,Hard,Twardy,Duro
+strLegendary,Legendary,伝説級,Легендарно,Legendarisk,Legendär,Legendario,Legendaarinen,Légendaire,Legendás,Leggendario,Legendarisk,Legendarny,Lendário
+,,,,,,,,,,,,,
+strReplay,Replay,リプレイ,Рестарт,Genafspilning,Wiederholung,Repetición,Uusinta,Rejouer,Visszajátszás,Rigiocare,Replay,Powtórna rozgrywka,Repetir
+strLose,Lose,敗北,Проигрыш,Tabe,Verlieren,Perder,Menettää,Perdre,elveszít,Perdere,Å tape,Stracić,Perder
+strYouLose,You Lose,あなたの負け,Вы проиграли,Du taber,Du verlierst,Tú pierdes,Sinä häviät,Tu as perdu,Vesztesz,Hai perso,Du tapte,Przegrałeś,Você perdeu
+strLanguages,Languages,言語,Языки,Sprog,Sprachen,Idiomas,Kieli (kielet,Langues,Nyelvek,Le lingue,Språk,Języki,línguas
+strYouWin,You Win,あなたの勝ち,Вы победили,Du vinder,Du gewinnst,Tú ganas,Sinä voitat,Vous gagnez,Te nyertél,Hai vinto,Du vinner,Wygrałeś,Você ganha
+strReward,Reward,報酬,Награда,Belønning,Belohnen,Premio,Palkinto,Récompense,Jutalom,Ricompensa,Belønning,Nagroda,Recompensa
+strMoreHealth,More health,体力を増やす,Больше жизней,Mere sundhed,Mehr Gesundheit,Más salud,Lisää terveyttä,Plus de santé,Több egészséget,Più salute,Mer helse,Więcej zdrowia,Mais saúde
+,,,,,,,,,,,,,
+strTutorialStep1,Collect three tiles at a time. Complete the level and get your reward,一度に3つのタイルを集めて、レベルをクリアし、報酬を獲得しよう,Собирайте по три плитки. Пройдите уровень и получить награду,Saml tre fliser ad gangen. Fuldfør niveauet og få din belønning,Sammle jeweils drei Kacheln. Schließe das Level ab und erhalte deine Belohnung,Recoge tres fichas a la vez. Completa el nivel y obtén tu recompensa.,Kerää kolme laattaa kerrallaan. Suorita taso ja saat palkintosi,Collectez trois tuiles à la fois. Terminez le niveau et obtenez votre récompense,Gyűjts össze három lapkát egyszerre. Teljesítsd a szintet és kapd meg a jutalmad,Raccogli tre tessere alla volta. Completa il livello e ottieni la tua ricompensa,Samle tre fliser om gangen. Fullfør nivået og få belønningen din,Zbierz trzy płytki na raz. Ukończ poziom i odbierz nagrodę,Colete três peças de cada vez. Complete o nível e receba sua recompensa
+,,,,,,,,,,,,,
+strEasy,Easy,簡単,Легкий,Let,Einfach,Fácil,Helppo,Facile,Könnyen,Facile,Lett,Łatwy,Fácil
+strNormal,Normal,普通,Нормальный,Normal,Normal,Normal,Normaali,Normale,Normál,Normale,Normal,Normalna,Normal
+strHard,Hard,難しい,Жесткий,Hårdt,Hart,Duro,Kovaa,Dur,Kemény,Difficile,Hard,Twardy,Duro
+strExpert,Expert,エキスパート,Эксперт,Ekspert,Experte,Experto,Asiantuntija,Expert,Szakértő,Esperto,Ekspert,Ekspert,Especialista
+,,,,,,,,,,,,,
+strNoAds,Ads not ready,広告の準備ができていません,Реклама не готова,Annoncer ikke klar,Anzeigen nicht bereit,Anuncios no listos,Mainokset eivät ole valmiita,Les annonces ne sont pas prêtes,A hirdetések nincsenek készen,Annunci non pronti,Annonsene er ikke klare,Reklamy nie są gotowe,Anúncios não prontos
+strNoSpins,Not available spins today,今日はスピンが利用できません,Нет бонуса на сегодня,Ikke tilgængelige spins i dag,Heute sind keine Spins verfügbar,Giros no disponibles hoy,Pyöritykset eivät ole saatavilla tänään,Tours non disponibles aujourd'hui,Ma nem elérhető pörgetések,Giri non disponibili oggi,Ikke tilgjengelige spinn i dag,Dzisiaj niedostępne spiny,Rodadas não disponíveis hoje
+strNoCoins,Not enough coins,コインが足りません,Нет монет,Ikke nok mønter,Nicht genug Münzen,No hay suficientes monedas,Ei tarpeeksi kolikoita,Pas assez de pièces,Nem elég érme,Non abbastanza monete,Ikke nok mynter,Niewystarczająca liczba monet,Não há moedas suficientes
+strLicense,License,ライセンス,Лицензия,Licens,Lizenz,Licencia,Toimilupa,Licence,Licenc,Licenza,Lisens,Licencja,Licença

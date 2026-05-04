@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af266a4d9501f42d89f7e98a4df3f4ed, type: 3}
+  m_Name: ResourcesPrizesConfig
+  m_EditorClassIdentifier: 
+  Prizes:
+  - {fileID: 11400000, guid: 816ee3ff75ac9428694dbad807f292da, type: 2}
+  - {fileID: 11400000, guid: bb03e2ae8ab244a75aa3b7c4e708f1cd, type: 2}
+  - {fileID: 11400000, guid: efafd78fbc3aa408eadf83a6fab10c9a, type: 2}
+  - {fileID: 11400000, guid: c16149b506e1d41a29e818d471924381, type: 2}
+  - {fileID: 11400000, guid: 2fed6a9fee94e4aa7abd1eb79d7c7f7a, type: 2}
+  - {fileID: 11400000, guid: b1d52e15bc21f456a9c319b187afd46c, type: 2}

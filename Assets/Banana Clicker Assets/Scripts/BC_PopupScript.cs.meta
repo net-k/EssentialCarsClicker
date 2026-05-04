@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: e73d6397006858a4f89d562fcd88e23a
+timeCreated: 1444826896
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36097
+  packageName: Incremental Idle Clicker Game - Banana Clicker
+  packageVersion: 2.2
+  assetPath: Assets/Banana Clicker Assets/Scripts/BC_PopupScript.cs
+  uploadId: 212708

@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d81a862722cb74a4c89e9809c3775155, type: 3}
+  m_Name: it
+  m_EditorClassIdentifier: 
+  Name: it
+  Id: 21
+  LocalizedTitle: Italiano
+  Texts:
+  - Key: strAbc
+    Value: NORDESTUVABIFLXCMZGHPJKQYW
+  - Key: strPlay
+    Value: Giocare
+  - Key: strSettings
+    Value: Impostazioni
+  - Key: strSounds
+    Value: Suoni
+  - Key: strVibrations
+    Value: Vibrazioni
+  - Key: strPrivacyPolicy
+    Value: politica sulla riservatezza
+  - Key: strCollect
+    Value: Raccogliere
+  - Key: strCollectX
+    Value: Raccogli x{0}
+  - Key: strSelectLanguage
+    Value: Seleziona la lingua
+  - Key: strSelect
+    Value: Selezionare
+  - Key: strComplete
+    Value: Completare
+  - Key: strTutorial
+    Value: Esercitazione
+  - Key: strLanguage
+    Value: Lingua
+  - Key: strFree
+    Value: Gratuito
+  - Key: strLevel
+    Value: Livello {0}
+  - Key: strMoreGames
+    Value: "Pi\xF9 giochi"
+  - Key: strCancel
+    Value: Annulla
+  - Key: strTryGame
+    Value: Prova il gioco
+  - Key: strSkip
+    Value: Saltare
+  - Key: strNext
+    Value: Prossimo
+  - Key: strExcellent
+    Value: Eccellente
+  - Key: strAwesome
+    Value: Eccezionale
+  - Key: strGood
+    Value: Bene
+  - Key: strLater
+    Value: Dopo
+  - Key: strRate
+    Value: Valutare
+  - Key: strRateGame
+    Value: Valuta il gioco
+  - Key: strMonth_1
+    Value: Gennaio
+  - Key: strMonth_2
+    Value: Febbraio
+  - Key: strMonth_3
+    Value: Marzo
+  - Key: strMonth_4
+    Value: aprile
+  - Key: strMonth_5
+    Value: Maggio
+  - Key: strMonth_6
+    Value: Giugno
+  - Key: strMonth_7
+    Value: Luglio
+  - Key: strMonth_8
+    Value: agosto
+  - Key: strMonth_9
+    Value: settembre
+  - Key: strMonth_10
+    Value: ottobre
+  - Key: strMonth_11
+    Value: novembre
+  - Key: strMonth_12
+    Value: Dicembre
+  - Key: strMon
+    Value: Mon
+  - Key: strTue
+    Value: Tue
+  - Key: strWed
+    Value: Wed
+  - Key: strThu
+    Value: Thu
+  - Key: strFri
+    Value: Fri
+  - Key: strSat
+    Value: Sat
+  - Key: strSun
+    Value: Sun
+  - Key: strContinue
+    Value: Continua
+  - Key: strDailyChallenge
+    Value: Sfida quotidiana
+  - Key: strPlayAgain
+    Value: Gioca di nuovo al livello
+  - Key: strLevelComplete
+    Value: Livello completato!
+  - Key: strNextLevel
+    Value: Livello successivo
+  - Key: strMenu
+    Value: "Men\xF9"
+  - Key: strNewGame
+    Value: Nuovo gioco
+  - Key: strEasy
+    Value: Facile
+  - Key: strNormal
+    Value: Normale
+  - Key: strHard
+    Value: Difficile
+  - Key: strLegendary
+    Value: Leggendario
+  - Key: strReplay
+    Value: Rigiocare
+  - Key: strLose
+    Value: Perdere
+  - Key: strYouLose
+    Value: Hai perso
+  - Key: strLanguages
+    Value: Le lingue
+  - Key: strYouWin
+    Value: Hai vinto
+  - Key: strReward
+    Value: Ricompensa
+  - Key: strMoreHealth
+    Value: "Pi\xF9 salute"
+  - Key: strTutorialStep1
+    Value: Raccogli tre tessere alla volta. Completa il livello e ottieni la tua
+      ricompensa
+  - Key: strEasy
+    Value: Facile
+  - Key: strNormal
+    Value: Normale
+  - Key: strHard
+    Value: Difficile
+  - Key: strExpert
+    Value: Esperto
+  - Key: strNoAds
+    Value: Annunci non pronti
+  - Key: strNoSpins
+    Value: Giri non disponibili oggi
+  - Key: strNoCoins
+    Value: Non abbastanza monete
+  - Key: strLicense
+    Value: Licenza
+  IsAvailable: 1

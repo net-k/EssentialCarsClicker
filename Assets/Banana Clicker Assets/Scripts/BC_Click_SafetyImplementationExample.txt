@@ -1,0 +1,66 @@
+// BC_Click.cs に追加する MAX 値チェック実装例
+// 以下は AddBananas() メソッド内で使用する例
+
+/**
+/// <summary>
+/// バナナを追加（MAX値超過防止付き）
+/// </summary>
+public void AddBananas(double bananasToAdd)
+{
+    // MAX到達チェック
+    if (IsAtMaxBananas())
+    {
+        Debug.Log("Bananas are at maximum. Cannot add more.");
+        return;
+    }
+
+    // 加算前の計算
+    double totalBeforeAdd = (bananaTrillionCount * 1e12) + BananaCount;
+    double totalAfterAdd = totalBeforeAdd + bananasToAdd;
+
+    // 最大値を定義（例：10^50）
+    const double MAX_BANANAS = 1e50;
+
+    // 超過チェック
+    if (totalAfterAdd > MAX_BANANAS)
+    {
+        Debug.LogWarning($"AddBananas: Total would exceed MAX_BANANAS ({MAX_BANANAS}). Capping to MAX.");
+        bananas = MAX_BANANAS;
+        bananaTrillionCount = Math.Floor(bananas / 1e12);
+        BananaCount = bananas - (bananaTrillionCount * 1e12);
+        return;
+    }
+
+    // 通常の追加処理
+    bananas += bananasToAdd;
+    BananaCount += bananasToAdd;
+
+    // 兆単位の繰り上げ
+    if (BananaCount >= 1e12)
+    {
+        double trillions = Math.Floor(BananaCount / 1e12);
+        bananaTrillionCount += trillions;
+        BananaCount -= trillions * 1e12;
+    }
+}
+
+/// <summary>
+/// バナナが最大値に到達したか
+/// </summary>
+private bool IsAtMaxBananas()
+{
+    const double MAX_BANANAS = 1e50;
+    double totalBananas = (bananaTrillionCount * 1e12) + BananaCount;
+    return totalBananas >= MAX_BANANAS;
+}
+
+/// <summary>
+/// 残りの購入可能バナナ数
+/// </summary>
+public double GetRemainingBananaCapacity()
+{
+    const double MAX_BANANAS = 1e50;
+    double currentBananas = (bananaTrillionCount * 1e12) + BananaCount;
+    return Math.Max(0, MAX_BANANAS - currentBananas);
+}
+**/

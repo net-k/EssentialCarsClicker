@@ -1,0 +1,48 @@
+# Handle line endings automatically for files detected as text
+# and force LF (Unix) line endings for other common text-based file types.
+* text=auto eol=lf
+
+# Explicitly declare text files that may be misinterpreted as binary
+*.cs text
+*.js text
+*.html text
+*.css text
+*.xml text
+*.json text
+*.asmdef text
+*.shader text
+*.template text
+
+# Unity-specific text files
+*.unity text
+*.prefab text
+*.mat text
+*.asset text
+*.meta text
+
+# Denote all files that are truly binary and should not be modified.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.bmp binary
+*.tga binary
+*.psd binary
+*.fbx binary
+*.obj binary
+*.dll binary
+*.exe binary
+*.so binary
+*.dylib binary
+*.a binary
+*.lib binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.mp4 binary
+*.mov binary
+*.avi binary
+*.unitypackage binary
+*.pdf binary
+*.zip binary
+*.rar binary

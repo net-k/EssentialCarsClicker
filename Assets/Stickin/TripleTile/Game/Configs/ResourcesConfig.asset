@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63a77bf8ca55f444d981863c4ecff141, type: 3}
+  m_Name: ResourcesConfig
+  m_EditorClassIdentifier: 
+  ResourcesDouble:
+  - Id: coin
+    Sprite: {fileID: 21300000, guid: a1817db304b094d5895789548dabd863, type: 3}
+    DefaultValue: 200
+  - Id: lamp
+    Sprite: {fileID: 21300000, guid: 0b2b0b29eb35c4bc89595943cfc83815, type: 3}
+    DefaultValue: 5
+  - Id: level
+    Sprite: {fileID: 0}
+    DefaultValue: 1
+  - Id: spin
+    Sprite: {fileID: 0}
+    DefaultValue: 5
+  - Id: shuffle
+    Sprite: {fileID: 21300000, guid: c3e5d68915e4e4d8a8d59e1199c6aab7, type: 3}
+    DefaultValue: 5
+  ResourcesString: []

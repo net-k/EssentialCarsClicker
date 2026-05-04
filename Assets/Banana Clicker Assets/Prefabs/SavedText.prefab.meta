@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ea525aef1efc634c84a7aad7fc9d2c8
+timeCreated: 1473599646
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 36097
+  packageName: Incremental Idle Clicker Game - Banana Clicker
+  packageVersion: 2.2
+  assetPath: Assets/Banana Clicker Assets/Prefabs/SavedText.prefab
+  uploadId: 212708

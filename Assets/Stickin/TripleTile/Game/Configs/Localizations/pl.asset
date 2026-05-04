@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d81a862722cb74a4c89e9809c3775155, type: 3}
+  m_Name: pl
+  m_EditorClassIdentifier: 
+  Name: pl
+  Id: 27
+  LocalizedTitle: Polski
+  Texts:
+  - Key: strAbc
+    Value: "PLA\u017BU\u0141SZJEI\u0143WONMTKFBCRYG\u015A\u0104D\u0118H\xD3VQ\u0179\u0106X"
+  - Key: strPlay
+    Value: "Gra\u0107"
+  - Key: strSettings
+    Value: Ustawienia
+  - Key: strSounds
+    Value: "D\u017Awi\u0119ki"
+  - Key: strVibrations
+    Value: Wibracje
+  - Key: strPrivacyPolicy
+    Value: "Polityka prywatno\u015Bci"
+  - Key: strCollect
+    Value: "Zbiera\u0107"
+  - Key: strCollectX
+    Value: Zbierz x{0}
+  - Key: strSelectLanguage
+    Value: "Wybierz j\u0119zyk"
+  - Key: strSelect
+    Value: "Wybiera\u0107"
+  - Key: strComplete
+    Value: Kompletny
+  - Key: strTutorial
+    Value: "Instrukta\u017C"
+  - Key: strLanguage
+    Value: "J\u0119zyk"
+  - Key: strFree
+    Value: "Bezp\u0142atny"
+  - Key: strLevel
+    Value: Poziom {0}
+  - Key: strMoreGames
+    Value: "Wi\u0119cej gier"
+  - Key: strCancel
+    Value: "Anulowa\u0107"
+  - Key: strTryGame
+    Value: "Wypr\xF3buj gr\u0119"
+  - Key: strSkip
+    Value: "Pomin\u0105\u0107"
+  - Key: strNext
+    Value: "Nast\u0119pny"
+  - Key: strExcellent
+    Value: "Doskona\u0142y"
+  - Key: strAwesome
+    Value: "Wspania\u0142y"
+  - Key: strGood
+    Value: Dobry
+  - Key: strLater
+    Value: "P\xF3\u017Aniej"
+  - Key: strRate
+    Value: "Wska\u017Anik"
+  - Key: strRateGame
+    Value: "Oce\u0144 gr\u0119"
+  - Key: strMonth_1
+    Value: "Stycze\u0144"
+  - Key: strMonth_2
+    Value: Luty
+  - Key: strMonth_3
+    Value: Marsz
+  - Key: strMonth_4
+    Value: "Kwiecie\u0144"
+  - Key: strMonth_5
+    Value: "M\xF3c"
+  - Key: strMonth_6
+    Value: Czerwiec
+  - Key: strMonth_7
+    Value: Lipiec
+  - Key: strMonth_8
+    Value: "Sierpie\u0144"
+  - Key: strMonth_9
+    Value: "Wrzesie\u0144"
+  - Key: strMonth_10
+    Value: "Pa\u017Adziernik"
+  - Key: strMonth_11
+    Value: Listopad
+  - Key: strMonth_12
+    Value: "Grudzie\u0144"
+  - Key: strMon
+    Value: Mon
+  - Key: strTue
+    Value: Tue
+  - Key: strWed
+    Value: Wed
+  - Key: strThu
+    Value: Thu
+  - Key: strFri
+    Value: Fri
+  - Key: strSat
+    Value: Sat
+  - Key: strSun
+    Value: Sun
+  - Key: strContinue
+    Value: "Kontynuowa\u0107"
+  - Key: strDailyChallenge
+    Value: Wyzwanie dnia
+  - Key: strPlayAgain
+    Value: Zagraj ponownie na poziomie
+  - Key: strLevelComplete
+    Value: "Poziom uko\u0144czony!"
+  - Key: strNextLevel
+    Value: "Nast\u0119pny poziom"
+  - Key: strMenu
+    Value: Menu
+  - Key: strNewGame
+    Value: Nowa gra
+  - Key: strEasy
+    Value: "\u0141atwy"
+  - Key: strNormal
+    Value: Normalna
+  - Key: strHard
+    Value: Twardy
+  - Key: strLegendary
+    Value: Legendarny
+  - Key: strReplay
+    Value: "Powt\xF3rna rozgrywka"
+  - Key: strLose
+    Value: "Straci\u0107"
+  - Key: strYouLose
+    Value: "Przegra\u0142e\u015B"
+  - Key: strLanguages
+    Value: "J\u0119zyki"
+  - Key: strYouWin
+    Value: "Wygra\u0142e\u015B"
+  - Key: strReward
+    Value: Nagroda
+  - Key: strMoreHealth
+    Value: "Wi\u0119cej zdrowia"
+  - Key: strTutorialStep1
+    Value: "Zbierz trzy p\u0142ytki na raz. Uko\u0144cz poziom i odbierz nagrod\u0119"
+  - Key: strEasy
+    Value: "\u0141atwy"
+  - Key: strNormal
+    Value: Normalna
+  - Key: strHard
+    Value: Twardy
+  - Key: strExpert
+    Value: Ekspert
+  - Key: strNoAds
+    Value: "Reklamy nie s\u0105 gotowe"
+  - Key: strNoSpins
+    Value: "Dzisiaj niedost\u0119pne spiny"
+  - Key: strNoCoins
+    Value: "Niewystarczaj\u0105ca liczba monet"
+  - Key: strLicense
+    Value: Licencja
+  IsAvailable: 1

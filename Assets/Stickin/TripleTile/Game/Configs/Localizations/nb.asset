@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d81a862722cb74a4c89e9809c3775155, type: 3}
+  m_Name: nb
+  m_EditorClassIdentifier: 
+  Name: nb
+  Id: 26
+  LocalizedTitle: Norsk
+  Texts:
+  - Key: strAbc
+    Value: "BUSILYKE\xC5TAPVNDRFGOJ\xD8MCHQZWTREX"
+  - Key: strPlay
+    Value: Spille
+  - Key: strSettings
+    Value: Innstillinger
+  - Key: strSounds
+    Value: Lyder
+  - Key: strVibrations
+    Value: Vibrasjoner
+  - Key: strPrivacyPolicy
+    Value: "Personvernerkl\xE6ring"
+  - Key: strCollect
+    Value: Samle inn
+  - Key: strCollectX
+    Value: Samle x{0}
+  - Key: strSelectLanguage
+    Value: "Velg spr\xE5k"
+  - Key: strSelect
+    Value: Plukke ut
+  - Key: strComplete
+    Value: Fullstendig
+  - Key: strTutorial
+    Value: "Oppl\xE6ringen"
+  - Key: strLanguage
+    Value: "Spr\xE5k"
+  - Key: strFree
+    Value: Gratis
+  - Key: strLevel
+    Value: "Niv\xE5 {0}"
+  - Key: strMoreGames
+    Value: Flere spill
+  - Key: strCancel
+    Value: Avbryt
+  - Key: strTryGame
+    Value: "Pr\xF8v spillet"
+  - Key: strSkip
+    Value: Hopp over
+  - Key: strNext
+    Value: Neste
+  - Key: strExcellent
+    Value: Utmerket
+  - Key: strAwesome
+    Value: "R\xE5tt"
+  - Key: strGood
+    Value: Flink
+  - Key: strLater
+    Value: Seinere
+  - Key: strRate
+    Value: Vurdere
+  - Key: strRateGame
+    Value: Vurder spillet
+  - Key: strMonth_1
+    Value: januar
+  - Key: strMonth_2
+    Value: februar
+  - Key: strMonth_3
+    Value: mars
+  - Key: strMonth_4
+    Value: april
+  - Key: strMonth_5
+    Value: Kan
+  - Key: strMonth_6
+    Value: juni
+  - Key: strMonth_7
+    Value: juli
+  - Key: strMonth_8
+    Value: august
+  - Key: strMonth_9
+    Value: september
+  - Key: strMonth_10
+    Value: oktober
+  - Key: strMonth_11
+    Value: november
+  - Key: strMonth_12
+    Value: desember
+  - Key: strMon
+    Value: Mon
+  - Key: strTue
+    Value: Tue
+  - Key: strWed
+    Value: Wed
+  - Key: strThu
+    Value: Thu
+  - Key: strFri
+    Value: Fri
+  - Key: strSat
+    Value: Sat
+  - Key: strSun
+    Value: Sun
+  - Key: strContinue
+    Value: Fortsette
+  - Key: strDailyChallenge
+    Value: Daglig utfordring
+  - Key: strPlayAgain
+    Value: "Spill niv\xE5 igjen"
+  - Key: strLevelComplete
+    Value: "Niv\xE5 fullf\xF8rt!"
+  - Key: strNextLevel
+    Value: "Neste niv\xE5"
+  - Key: strMenu
+    Value: Meny
+  - Key: strNewGame
+    Value: Nytt spill
+  - Key: strEasy
+    Value: Lett
+  - Key: strNormal
+    Value: Normal
+  - Key: strHard
+    Value: Hard
+  - Key: strLegendary
+    Value: Legendarisk
+  - Key: strReplay
+    Value: Replay
+  - Key: strLose
+    Value: "\xC5 tape"
+  - Key: strYouLose
+    Value: Du tapte
+  - Key: strLanguages
+    Value: "Spr\xE5k"
+  - Key: strYouWin
+    Value: Du vinner
+  - Key: strReward
+    Value: "Bel\xF8nning"
+  - Key: strMoreHealth
+    Value: Mer helse
+  - Key: strTutorialStep1
+    Value: "Samle tre fliser om gangen. Fullf\xF8r niv\xE5et og f\xE5 bel\xF8nningen
+      din"
+  - Key: strEasy
+    Value: Lett
+  - Key: strNormal
+    Value: Normal
+  - Key: strHard
+    Value: Hard
+  - Key: strExpert
+    Value: Ekspert
+  - Key: strNoAds
+    Value: Annonsene er ikke klare
+  - Key: strNoSpins
+    Value: Ikke tilgjengelige spinn i dag
+  - Key: strNoCoins
+    Value: Ikke nok mynter
+  - Key: strLicense
+    Value: Lisens
+  IsAvailable: 1

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d8eb48e70aa84cd39652dd8343d3846, type: 3}
+  m_Name: ClickButtonConfig
+  m_EditorClassIdentifier: Assembly-CSharp::SushiClicker.ClickButtonConfig
+  _buttonSprite: {fileID: 21300000, guid: 1db669b9e03e14c788aea0bc65d9c5fb, type: 3}
+  _rainSprites:
+  - {fileID: 5320755388812561610, guid: e7df5a18377d64f76ba52aaafb64c9d4, type: 3}
+  - {fileID: 1834752286009159366, guid: aaf3ab7d694d8473eb0c7a9d59b2e0cc, type: 3}
+  - {fileID: -7769819872094457941, guid: e4742c714dd334db0b4dcf7293981e4a, type: 3}
+  - {fileID: 1077457852492765496, guid: b41de97c001bf4b8b94540292ba71030, type: 3}
+  - {fileID: -2901995034519890660, guid: db636fd2ab6b44ddb9e8312c7e7072a2, type: 3}
+  - {fileID: 3377890734048759180, guid: 95123de9c17a647d2a98611703027dbe, type: 3}
+  - {fileID: -5210952760134560364, guid: 6a55af78231ab48cea230b9cf3d98750, type: 3}
+  - {fileID: 4003718771332123377, guid: 7f59349b3543f4b1db6102c1240f28bc, type: 3}
+  - {fileID: -2582420950875520249, guid: 411770a598e2d43588b54b912475b954, type: 3}
+  - {fileID: -5024875065722000391, guid: 27291edd8a36f4167a16e71237736c2b, type: 3}

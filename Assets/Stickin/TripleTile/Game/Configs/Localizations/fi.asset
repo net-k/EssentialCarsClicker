@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d81a862722cb74a4c89e9809c3775155, type: 3}
+  m_Name: fi
+  m_EditorClassIdentifier: 
+  Name: fi
+  Id: 13
+  LocalizedTitle: Suomalainen
+  Texts:
+  - Key: strAbc
+    Value: "BUSIVENATORKFLMY\xC4HPJ\xD6DCQZGWX"
+  - Key: strPlay
+    Value: pelata
+  - Key: strSettings
+    Value: asetukset
+  - Key: strSounds
+    Value: "\xC4\xE4net"
+  - Key: strVibrations
+    Value: "T\xE4rin\xE4"
+  - Key: strPrivacyPolicy
+    Value: "Tietosuojak\xE4yt\xE4nt\xF6"
+  - Key: strCollect
+    Value: "Ker\xE4t\xE4"
+  - Key: strCollectX
+    Value: "Ker\xE4\xE4 x{0}"
+  - Key: strSelectLanguage
+    Value: Valitse kieli
+  - Key: strSelect
+    Value: Valitse
+  - Key: strComplete
+    Value: Saattaa loppuun
+  - Key: strTutorial
+    Value: Opetusohjelma
+  - Key: strLanguage
+    Value: Kieli
+  - Key: strFree
+    Value: Vapaa
+  - Key: strLevel
+    Value: Taso {0}
+  - Key: strMoreGames
+    Value: "Lis\xE4\xE4 pelej\xE4"
+  - Key: strCancel
+    Value: Peruuttaa
+  - Key: strTryGame
+    Value: "Kokeile peli\xE4"
+  - Key: strSkip
+    Value: Ohita
+  - Key: strNext
+    Value: Seuraava
+  - Key: strExcellent
+    Value: Erinomainen
+  - Key: strAwesome
+    Value: Mahtava
+  - Key: strGood
+    Value: "Hyv\xE4"
+  - Key: strLater
+    Value: "My\xF6hemmin"
+  - Key: strRate
+    Value: Rate
+  - Key: strRateGame
+    Value: Arvioi peli
+  - Key: strMonth_1
+    Value: tammikuu
+  - Key: strMonth_2
+    Value: helmikuu
+  - Key: strMonth_3
+    Value: maaliskuuta
+  - Key: strMonth_4
+    Value: huhtikuu
+  - Key: strMonth_5
+    Value: saattaa
+  - Key: strMonth_6
+    Value: "kes\xE4kuuta"
+  - Key: strMonth_7
+    Value: "hein\xE4kuu"
+  - Key: strMonth_8
+    Value: elokuu
+  - Key: strMonth_9
+    Value: syyskuu
+  - Key: strMonth_10
+    Value: lokakuu
+  - Key: strMonth_11
+    Value: marraskuu
+  - Key: strMonth_12
+    Value: joulukuu
+  - Key: strMon
+    Value: Mon
+  - Key: strTue
+    Value: Tue
+  - Key: strWed
+    Value: Wed
+  - Key: strThu
+    Value: Thu
+  - Key: strFri
+    Value: Fri
+  - Key: strSat
+    Value: Sat
+  - Key: strSun
+    Value: Sun
+  - Key: strContinue
+    Value: Jatkaa
+  - Key: strDailyChallenge
+    Value: "P\xE4ivitt\xE4inen haaste"
+  - Key: strPlayAgain
+    Value: Pelaa taas tasoa
+  - Key: strLevelComplete
+    Value: Taso valmis!
+  - Key: strNextLevel
+    Value: Seuraava taso
+  - Key: strMenu
+    Value: Valikko
+  - Key: strNewGame
+    Value: Uusi peli
+  - Key: strEasy
+    Value: Helppo
+  - Key: strNormal
+    Value: Normaali
+  - Key: strHard
+    Value: Kovaa
+  - Key: strLegendary
+    Value: Legendaarinen
+  - Key: strReplay
+    Value: Uusinta
+  - Key: strLose
+    Value: "Menett\xE4\xE4"
+  - Key: strYouLose
+    Value: "Sin\xE4 h\xE4vi\xE4t"
+  - Key: strLanguages
+    Value: Kieli (kielet
+  - Key: strYouWin
+    Value: "Sin\xE4 voitat"
+  - Key: strReward
+    Value: Palkinto
+  - Key: strMoreHealth
+    Value: "Lis\xE4\xE4 terveytt\xE4"
+  - Key: strTutorialStep1
+    Value: "Ker\xE4\xE4 kolme laattaa kerrallaan. Suorita taso ja saat palkintosi"
+  - Key: strEasy
+    Value: Helppo
+  - Key: strNormal
+    Value: Normaali
+  - Key: strHard
+    Value: Kovaa
+  - Key: strExpert
+    Value: Asiantuntija
+  - Key: strNoAds
+    Value: "Mainokset eiv\xE4t ole valmiita"
+  - Key: strNoSpins
+    Value: "Py\xF6ritykset eiv\xE4t ole saatavilla t\xE4n\xE4\xE4n"
+  - Key: strNoCoins
+    Value: Ei tarpeeksi kolikoita
+  - Key: strLicense
+    Value: Toimilupa
+  IsAvailable: 1

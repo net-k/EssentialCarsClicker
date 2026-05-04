@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8834750bb418744a89f87e0f786e5eb4
+  m_SerializeEntries:
+  - m_GUID: 8cff7aaecd5834a8fb4d070d15eec9f3
+    m_Address: Collection/SushiSlot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae942dff6beb74a2699c941a32637bd1
+    m_Address: Assets/SushiCoinPusher/Prefabs/AchievementListItemButton.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b33d357c31961404eac531cc0fbcfe0b
+    m_Address: Assets/Sushi_set_D/Prefabs/Individual
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7066c4fe9c74d4eb7aae1150b12ca33c, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f56ff939a68e049e599b30e54517db0f, type: 2}
+    - {fileID: 11400000, guid: 0d8ccc0229b8048288017c8b6d87f5fc, type: 2}

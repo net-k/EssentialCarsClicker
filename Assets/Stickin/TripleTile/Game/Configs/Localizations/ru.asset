@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d81a862722cb74a4c89e9809c3775155, type: 3}
+  m_Name: ru
+  m_EditorClassIdentifier: 
+  Name: ru
+  Id: 30
+  LocalizedTitle: "\u0420\u0443\u0441\u0441\u043A\u0438\u0439"
+  Texts:
+  - Key: strAbc
+    Value: "\u0417\u0418\u041C\u0410\u041B\u0415\u0422\u041E\u0421\u041D\u042C\u0413\u0420\u0423\u0411\u041A\u0426\u0424\u0414\u042B\u0425\u041F\u0419\u0416\u0412\u042A\u0428\u0427\u042F\u042D\u042E\u0429"
+  - Key: strPlay
+    Value: "\u0418\u0433\u0440\u0430\u0442\u044C"
+  - Key: strSettings
+    Value: "\u043D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438"
+  - Key: strSounds
+    Value: "\u0437\u0432\u0443\u043A\u0438"
+  - Key: strVibrations
+    Value: "\u0432\u0438\u0431\u0440\u0430\u0446\u0438\u0438"
+  - Key: strPrivacyPolicy
+    Value: "\u041F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 \u043A\u043E\u043D\u0444\u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0441\u0442\u0438"
+  - Key: strCollect
+    Value: "\u0441\u043E\u0431\u0440\u0430\u0442\u044C"
+  - Key: strCollectX
+    Value: "\u0441\u043E\u0431\u0440\u0430\u0442\u044C x{0}"
+  - Key: strSelectLanguage
+    Value: "\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u044F\u0437\u044B\u043A"
+  - Key: strSelect
+    Value: "\u0412\u044B\u0431\u0440\u0430\u0442\u044C"
+  - Key: strComplete
+    Value: "\u043F\u043E\u043B\u043D\u044B\u0439"
+  - Key: strTutorial
+    Value: "\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435"
+  - Key: strLanguage
+    Value: "\u044F\u0437\u044B\u043A"
+  - Key: strFree
+    Value: "\u0441\u0432\u043E\u0431\u043E\u0434\u043D\u043E"
+  - Key: strLevel
+    Value: "\u0423\u0440\u043E\u0432\u0435\u043D\u044C {0}"
+  - Key: strMoreGames
+    Value: "\u0411\u043E\u043B\u044C\u0448\u0435 \u0438\u0433\u0440"
+  - Key: strCancel
+    Value: "\u041E\u0442\u043C\u0435\u043D\u0430"
+  - Key: strTryGame
+    Value: "\u0421\u044B\u0433\u0440\u0430\u0439\u0442\u0435"
+  - Key: strSkip
+    Value: "\u041F\u0440\u043E\u043F\u0443\u0441\u0442\u0438\u0442\u044C"
+  - Key: strNext
+    Value: "\u0441\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u0439"
+  - Key: strExcellent
+    Value: "\u043F\u0440\u0435\u0432\u043E\u0441\u0445\u043E\u0434\u043D\u043E"
+  - Key: strAwesome
+    Value: "\u041F\u043E\u0442\u0440\u044F\u0441\u0430\u044E\u0449\u0438\u0435"
+  - Key: strGood
+    Value: "\u0445\u043E\u0440\u043E\u0448\u0438\u0439"
+  - Key: strLater
+    Value: "\u041F\u043E\u0442\u043E\u043C"
+  - Key: strRate
+    Value: "\u041E\u0446\u0435\u043D\u0438\u0432\u0430\u0442\u044C"
+  - Key: strRateGame
+    Value: "\u041E\u0446\u0435\u043D\u0438\u0442\u044C \u0438\u0433\u0440\u0443"
+  - Key: strMonth_1
+    Value: "\u042F\u043D\u0432\u0430\u0440\u044C"
+  - Key: strMonth_2
+    Value: "\u0424\u0435\u0432\u0440\u0430\u043B\u044C"
+  - Key: strMonth_3
+    Value: "\u041C\u0430\u0440\u0442"
+  - Key: strMonth_4
+    Value: "\u0410\u043F\u0440\u0435\u043B\u044C"
+  - Key: strMonth_5
+    Value: "\u041C\u0430\u0439"
+  - Key: strMonth_6
+    Value: "\u0418\u044E\u043D\u044C"
+  - Key: strMonth_7
+    Value: "\u0418\u044E\u043B\u044C"
+  - Key: strMonth_8
+    Value: "\u0410\u0432\u0433\u0443\u0441\u0442"
+  - Key: strMonth_9
+    Value: "\u0421\u0435\u043D\u0442\u044F\u0431\u0440\u044C"
+  - Key: strMonth_10
+    Value: "\u041E\u043A\u0442\u044F\u0431\u0440\u044C"
+  - Key: strMonth_11
+    Value: "\u041D\u043E\u044F\u0431\u0440\u044C"
+  - Key: strMonth_12
+    Value: "\u0414\u0435\u043A\u0430\u0431\u0440\u044C"
+  - Key: strMon
+    Value: "\u041F\u043D"
+  - Key: strTue
+    Value: "\u0412\u0442"
+  - Key: strWed
+    Value: "\u0421\u0440"
+  - Key: strThu
+    Value: "\u0427\u0442"
+  - Key: strFri
+    Value: "\u041F\u0442"
+  - Key: strSat
+    Value: "\u0421\u0431"
+  - Key: strSun
+    Value: "\u0412\u0441"
+  - Key: strContinue
+    Value: "\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0430\u0442\u044C"
+  - Key: strDailyChallenge
+    Value: "\u0415\u0436\u0435\u0434\u043D\u0435\u0432\u043D\u043E\u0435 \u0438\u0441\u043F\u044B\u0442\u0430\u043D\u0438\u0435"
+  - Key: strPlayAgain
+    Value: "\u041F\u0440\u043E\u0439\u0434\u0438 \u0443\u0440\u043E\u0432\u0435\u043D\u044C
+      \u0435\u0449\u0435 \u0440\u0430\u0437"
+  - Key: strLevelComplete
+    Value: "\u0423\u0440\u043E\u0432\u0435\u043D\u044C \u043F\u0440\u043E\u0439\u0434\u0435\u043D!"
+  - Key: strNextLevel
+    Value: "\u0421\u043B\u0435\u0434\u0443\u044E\u0449\u0438\u0439 \u0443\u0440\u043E\u0432\u0435\u043D\u044C"
+  - Key: strMenu
+    Value: "\u041C\u0435\u043D\u044E"
+  - Key: strNewGame
+    Value: "\u041D\u043E\u0432\u0430\u044F \u0438\u0433\u0440\u0430"
+  - Key: strEasy
+    Value: "\u041B\u0435\u0433\u043A\u043E"
+  - Key: strNormal
+    Value: "\u0421\u0440\u0435\u0434\u043D\u0435"
+  - Key: strHard
+    Value: "\u0421\u043B\u043E\u0436\u043D\u043E"
+  - Key: strLegendary
+    Value: "\u041B\u0435\u0433\u0435\u043D\u0434\u0430\u0440\u043D\u043E"
+  - Key: strReplay
+    Value: "\u0420\u0435\u0441\u0442\u0430\u0440\u0442"
+  - Key: strLose
+    Value: "\u041F\u0440\u043E\u0438\u0433\u0440\u044B\u0448"
+  - Key: strYouLose
+    Value: "\u0412\u044B \u043F\u0440\u043E\u0438\u0433\u0440\u0430\u043B\u0438"
+  - Key: strLanguages
+    Value: "\u042F\u0437\u044B\u043A\u0438"
+  - Key: strYouWin
+    Value: "\u0412\u044B \u043F\u043E\u0431\u0435\u0434\u0438\u043B\u0438"
+  - Key: strReward
+    Value: "\u041D\u0430\u0433\u0440\u0430\u0434\u0430"
+  - Key: strMoreHealth
+    Value: "\u0411\u043E\u043B\u044C\u0448\u0435 \u0436\u0438\u0437\u043D\u0435\u0439"
+  - Key: strTutorialStep1
+    Value: "\u0421\u043E\u0431\u0438\u0440\u0430\u0439\u0442\u0435 \u043F\u043E \u0442\u0440\u0438
+      \u043F\u043B\u0438\u0442\u043A\u0438. \u041F\u0440\u043E\u0439\u0434\u0438\u0442\u0435
+      \u0443\u0440\u043E\u0432\u0435\u043D\u044C \u0438 \u043F\u043E\u043B\u0443\u0447\u0438\u0442\u044C
+      \u043D\u0430\u0433\u0440\u0430\u0434\u0443"
+  - Key: strEasy
+    Value: "\u041B\u0435\u0433\u043A\u0438\u0439"
+  - Key: strNormal
+    Value: "\u041D\u043E\u0440\u043C\u0430\u043B\u044C\u043D\u044B\u0439"
+  - Key: strHard
+    Value: "\u0416\u0435\u0441\u0442\u043A\u0438\u0439"
+  - Key: strExpert
+    Value: "\u042D\u043A\u0441\u043F\u0435\u0440\u0442"
+  - Key: strNoAds
+    Value: "\u0420\u0435\u043A\u043B\u0430\u043C\u0430 \u043D\u0435 \u0433\u043E\u0442\u043E\u0432\u0430"
+  - Key: strNoSpins
+    Value: "\u041D\u0435\u0442 \u0431\u043E\u043D\u0443\u0441\u0430 \u043D\u0430
+      \u0441\u0435\u0433\u043E\u0434\u043D\u044F"
+  - Key: strNoCoins
+    Value: "\u041D\u0435\u0442 \u043C\u043E\u043D\u0435\u0442"
+  - Key: strLicense
+    Value: "\u041B\u0438\u0446\u0435\u043D\u0437\u0438\u044F"
+  IsAvailable: 1

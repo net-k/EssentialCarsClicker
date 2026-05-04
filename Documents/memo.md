@@ -1,0 +1,1 @@
+BucketCoinCollector にコイン入手の実装が書かれている

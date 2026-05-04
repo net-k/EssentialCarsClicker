@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d81a862722cb74a4c89e9809c3775155, type: 3}
+  m_Name: de
+  m_EditorClassIdentifier: 
+  Name: de
+  Id: 15
+  LocalizedTitle: Deutsche
+  Texts:
+  - Key: strAbc
+    Value: "GR\xDCNOTELBS\xC4UADZFIKMCHWPVYQ\xD6JXORFU"
+  - Key: strPlay
+    Value: Spielen
+  - Key: strSettings
+    Value: Einstellungen
+  - Key: strSounds
+    Value: "Ger\xE4usche"
+  - Key: strVibrations
+    Value: Vibrationen
+  - Key: strPrivacyPolicy
+    Value: Datenschutzrichtlinie
+  - Key: strCollect
+    Value: Sammeln
+  - Key: strCollectX
+    Value: Sammle x{0}
+  - Key: strSelectLanguage
+    Value: "Sprache ausw\xE4hlen"
+  - Key: strSelect
+    Value: "W\xE4hlen"
+  - Key: strComplete
+    Value: "Vollst\xE4ndig"
+  - Key: strTutorial
+    Value: Lernprogramm
+  - Key: strLanguage
+    Value: Sprache
+  - Key: strFree
+    Value: Frei
+  - Key: strLevel
+    Value: Ebene {0}
+  - Key: strMoreGames
+    Value: Mehr Spiele
+  - Key: strCancel
+    Value: Stornieren
+  - Key: strTryGame
+    Value: Probieren Sie das Spiel aus
+  - Key: strSkip
+    Value: "\xDCberspringen"
+  - Key: strNext
+    Value: "N\xE4chste"
+  - Key: strExcellent
+    Value: Exzellent
+  - Key: strAwesome
+    Value: Eindrucksvoll
+  - Key: strGood
+    Value: Gut
+  - Key: strLater
+    Value: "Sp\xE4ter"
+  - Key: strRate
+    Value: Rate
+  - Key: strRateGame
+    Value: Rate Spiel
+  - Key: strMonth_1
+    Value: Januar
+  - Key: strMonth_2
+    Value: Februar
+  - Key: strMonth_3
+    Value: Marsch
+  - Key: strMonth_4
+    Value: April
+  - Key: strMonth_5
+    Value: Mai
+  - Key: strMonth_6
+    Value: Juni
+  - Key: strMonth_7
+    Value: Juli
+  - Key: strMonth_8
+    Value: August
+  - Key: strMonth_9
+    Value: September
+  - Key: strMonth_10
+    Value: Oktober
+  - Key: strMonth_11
+    Value: November
+  - Key: strMonth_12
+    Value: Dezember
+  - Key: strMon
+    Value: MO
+  - Key: strTue
+    Value: DI
+  - Key: strWed
+    Value: MI
+  - Key: strThu
+    Value: DO
+  - Key: strFri
+    Value: FR
+  - Key: strSat
+    Value: SA
+  - Key: strSun
+    Value: SO
+  - Key: strContinue
+    Value: Weitermachen
+  - Key: strDailyChallenge
+    Value: "T\xE4gliche Herausforderung"
+  - Key: strPlayAgain
+    Value: Wieder Level spielen
+  - Key: strLevelComplete
+    Value: Level geschafft!
+  - Key: strNextLevel
+    Value: "N\xE4chste Ebene"
+  - Key: strMenu
+    Value: Speisekarte
+  - Key: strNewGame
+    Value: Neues Spiel
+  - Key: strEasy
+    Value: Einfach
+  - Key: strNormal
+    Value: Normal
+  - Key: strHard
+    Value: Hart
+  - Key: strLegendary
+    Value: "Legend\xE4r"
+  - Key: strReplay
+    Value: Wiederholung
+  - Key: strLose
+    Value: Verlieren
+  - Key: strYouLose
+    Value: Du verlierst
+  - Key: strLanguages
+    Value: Sprachen
+  - Key: strYouWin
+    Value: Du gewinnst
+  - Key: strReward
+    Value: Belohnen
+  - Key: strMoreHealth
+    Value: Mehr Gesundheit
+  - Key: strTutorialStep1
+    Value: "Sammle jeweils drei Kacheln. Schlie\xDFe das Level ab und erhalte deine
+      Belohnung"
+  - Key: strEasy
+    Value: Einfach
+  - Key: strNormal
+    Value: Normal
+  - Key: strHard
+    Value: Hart
+  - Key: strExpert
+    Value: Experte
+  - Key: strNoAds
+    Value: Anzeigen nicht bereit
+  - Key: strNoSpins
+    Value: "Heute sind keine Spins verf\xFCgbar"
+  - Key: strNoCoins
+    Value: "Nicht genug M\xFCnzen"
+  - Key: strLicense
+    Value: Lizenz
+  IsAvailable: 1
