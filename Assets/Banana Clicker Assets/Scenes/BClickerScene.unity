@@ -2511,7 +2511,7 @@ RectTransform:
   m_GameObject: {fileID: 800751894}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.2, y: 1.2, z: 1}
+  m_LocalScale: {x: 1.6, y: 1.6, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 115691933}
@@ -2766,7 +2766,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -7253964169324540169, guid: 3dce1d7939700450ebad8899c0c2d0ad,
+  m_Sprite: {fileID: -4571828015118065507, guid: 688802eba1e304077983a21629536dd0,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3293,7 +3293,7 @@ SpriteRenderer:
   m_Size: {x: 10, y: 10}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_SpriteSortPoint: 0
 --- !u!4 &977591259
 Transform:
@@ -3717,7 +3717,7 @@ SpriteRenderer:
   m_Size: {x: 10, y: 10}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1341464147
 Transform:
@@ -4286,7 +4286,7 @@ PrefabInstance:
     - target: {fileID: 3897525024387888650, guid: f2a28cd8f71244f9a89ec9fa21a8dc7d,
         type: 3}
       propertyPath: BundleIdentifier
-      value: com.netk.CakeClicker
+      value: com.netk.EssentialCarsClicker
       objectReference: {fileID: 0}
     - target: {fileID: 4928836550489411531, guid: f2a28cd8f71244f9a89ec9fa21a8dc7d,
         type: 3}
@@ -4401,12 +4401,12 @@ PrefabInstance:
     - target: {fileID: 4928836551749616982, guid: f2a28cd8f71244f9a89ec9fa21a8dc7d,
         type: 3}
       propertyPath: androidURL
-      value: https://play.google.com/store/apps/details?id=com.netk.CakeClicker
+      value: https://play.google.com/store/apps/details?id=com.netk.EssentialCarsClicker
       objectReference: {fileID: 0}
     - target: {fileID: 6431742870955438275, guid: f2a28cd8f71244f9a89ec9fa21a8dc7d,
         type: 3}
       propertyPath: storeUrl
-      value: https://play.google.com/store/apps/details?id=com.netk.CakeClicker
+      value: https://play.google.com/store/apps/details?id=com.netk.EssentialCarsClicker
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5721,8 +5721,8 @@ MonoBehaviour:
   _minSpawnYSpacing: 0.6
   _speedMin: 1
   _speedMax: 2.4
-  _scaleMin: 0.13
-  _scaleMax: 0.24
+  _scaleMin: 0.03
+  _scaleMax: 0.06
   _sortingLayerName: Default
   _sortingOrderBase: 1
 --- !u!1001 &1600431081311445783

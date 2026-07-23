@@ -15,13 +15,17 @@ namespace SushiClicker
         [Header("ランダム表示するケーキ画像（設定時はConfigより優先）")]
         [SerializeField] private Sprite[] _cakeSprites = null;
 
-        [Header("デバッグ: 固定表示するケーキのインデックス（-1でランダム）")]
+#if UNITY_EDITOR
+        [Header("デバッグ: 固定表示するケーキのインデックス（-1でランダム / Editorのみ有効）")]
         [SerializeField] private int _debugFixedCakeIndex = -1;
+#endif
 
         private void Start()
         {
             if (_cakeSprites != null && _cakeSprites.Length > 0)
             {
+#if UNITY_EDITOR
+                // 固定表示はデバッグ用途のためEditor実行時のみ有効
                 if (_debugFixedCakeIndex >= 0 && _debugFixedCakeIndex < _cakeSprites.Length)
                 {
                     ApplyFixedCake(_debugFixedCakeIndex);
@@ -30,6 +34,9 @@ namespace SushiClicker
                 {
                     ApplyRandomCake();
                 }
+#else
+                ApplyRandomCake();
+#endif
             }
             else
             {

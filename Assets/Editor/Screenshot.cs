@@ -1,4 +1,5 @@
-﻿using UnityEditor;
+﻿using System.IO;
+using UnityEditor;
 using UnityEngine;
 
 public class CaptureScreenshot : Editor {
@@ -13,7 +14,10 @@ public class CaptureScreenshot : Editor {
 	/// </remarks>
 	[MenuItem("Edit/CaptureScreenshot %&s")]
 	private static void DoCaptureScreenshot() {
-		var filename = "Screenshot/" + System.DateTime.Now.ToString( "yyyyMMdd-HHmmss" ) + ".png";
+		var directory = "Screenshot";
+		Directory.CreateDirectory( directory );
+
+		var filename = Path.Combine( directory, System.DateTime.Now.ToString( "yyyyMMdd-HHmmss" ) + ".png" );
 		ScreenCapture.CaptureScreenshot( filename );
 		var assembly = typeof( UnityEditor.EditorWindow ).Assembly;
 		var type = assembly.GetType( "UnityEditor.GameView" );
