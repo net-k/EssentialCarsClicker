@@ -143,7 +143,7 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
-  bundleVersion: 1.0.0
+  bundleVersion: 1.0.1
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -177,7 +177,7 @@ PlayerSettings:
     iPhone: 1
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1
-  AndroidBundleVersionCode: 2
+  AndroidBundleVersionCode: 5
   AndroidMinSdkVersion: 26
   AndroidTargetSdkVersion: 36
   AndroidPreferredInstallLocation: 1
@@ -302,7 +302,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 88ffc63a5cca34525ba32505fce21bb2, type: 3}
+      m_Icon: {fileID: 2800000, guid: 1bd1662d5da55400f9501f2f4cf129d3, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -467,8 +467,8 @@ PlayerSettings:
       m_Kind: 0
       m_SubKind: 
     - m_Textures:
-      - {fileID: 2800000, guid: 6a8708f1b0c51474a826df0b27c2819c, type: 3}
-      - {fileID: 2800000, guid: c23d80b0a4b25437d9d1936757290da9, type: 3}
+      - {fileID: 2800000, guid: 2265a4fd0489e4317ba9678ea2ddbe8a, type: 3}
+      - {fileID: 2800000, guid: 0dac6ab70a9154b3b966698d14050752, type: 3}
       m_Width: 432
       m_Height: 432
       m_Kind: 2
